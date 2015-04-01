@@ -14,6 +14,7 @@
 - [생활코딩](http://opentutorials.org/course/1) - 프로그래밍 학습(web, html/css, js, jquery, php, mysql, linux, java, android, ...)
 
 ### Python
+- [점프 투 파이썬](https://wikidocs.net/book/1)
 
 ### Online judge
 
