@@ -3,12 +3,11 @@
 
 ### MOOC site
 
-> MOOCs(Massive Open Online Courses, MOOCs)
-> 미국에서 시작된 대규모 온라인 공개 강좌
+> MOOCs(Massive Open Online Courses, MOOCs): 미국에서 시작된 대규모 온라인 공개 강좌
 
-- [edx](https://www.edx.org/) - 무크 사이트
-- [coursera](https://www.coursera.org/) - 무크 사이트
-- [udacity](https://www.udacity.com/) - 무크 사이트(컴퓨터공학 관련 강좌 다수)
+- [edx](https://www.edx.org/)
+- [coursera](https://www.coursera.org/)
+- [udacity](https://www.udacity.com/) - 컴퓨터공학 관련 강좌 다수
 
 ### Computer Language Edu
 - [Codecademy](http://www.codecademy.com/) - 프로그래밍 학습 온라인 플랫폼 ^opid/4^
@@ -18,10 +17,17 @@
 
 ### Online judge
 
-> 프로그래밍 대회에서 프로그램들을 시험할 목적으로 만들어진 온라인 시스템으로 대회 연습용으로 사용되기도 한다.
+> Online judge: 프로그래밍 대회에서 프로그램들을 시험할 목적으로 만들어진 온라인 시스템으로 대회 연습용으로 사용되기도 한다.
 
-- [더블릿](http://http://183.106.113.109/) - 알고리즘 트레이닝 ^opid/3^
-- [Baekjoon Online Judge](http://www.acmicpc.net/) ^opid/4^
+#### 국내
+
+- [더블릿](http://http://183.106.113.109/) - ^opid/3^
+- [Baekjoon Online Judge](http://www.acmicpc.net/) - ^opid/4^
+- [코딩도장](http://codingdojang.com/)
+
+
+#### 국외
+- [TopCoder](http://www.topcoder.com/)
 
 ### etc
 
