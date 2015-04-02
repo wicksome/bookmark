@@ -20,7 +20,7 @@
 
 ### 국내
 
-- [더블릿](http://http://183.106.113.109/) - ^opid/3^
+- [더블릿](http://183.106.113.109/) - ^opid/3^
 - [Baekjoon Online Judge](http://www.acmicpc.net/) - ^opid/4^
 - [코딩도장](http://codingdojang.com/)
 
@@ -49,3 +49,7 @@
 
 - [zeroclipboard](https://github.com/zeroclipboard/zeroclipboard/blob/master/docs/instructions.md) - javascript copy to clipboard.
 - [도타비 문제은행](http://gunsys.com/cbt_list/pil_gisa.htm) - 국가기술자격 필기 문제은행
+
+## note
+- 질문하는 사람은 5분간 바보다. 질문하지 않는 사람은 영원한 바보다. (중국속담)
+- 답변 모두를 아는 것보다 질문이 무엇인지를 아는 것이 더 낫다. (James Thurber)
