@@ -30,6 +30,11 @@
 
 ## Front-end Framework
 
+- [Bootstrap](http://getbootstrap.com/)
+- [Foundation](http://foundation.zurb.com/)
+- [Semantic UI](http://semantic-ui.com/)
+- [Pure]()
+- [UIkit]()
 - [Materialize](http://materializecss.com/) - Material Design
 
 ## Git
@@ -44,6 +49,10 @@
 - [getrefe](http://getrefe.tumblr.com/) - free reference photos
 - [littlevisuals](http://littlevisuals.co/) - free reference photos
 - [gratisography](http://www.gratisography.com/) - free reference photos
+
+## 읽어볼만한 포스팅
+- [[번역]2014년 가장 인기있는 5가지 프론트엔드 프레임워크 비교](http://witinweb.tumblr.com/post/105246674402/2014-5)
+
 
 ## ETC(temp)
 
