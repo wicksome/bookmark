@@ -31,11 +31,15 @@
 ## Front-end Framework
 
 - [Bootstrap](http://getbootstrap.com/)
+	- [Bootstrap form builder](http://bootsnipp.com/forms?version=3)
 - [Foundation](http://foundation.zurb.com/)
 - [Semantic UI](http://semantic-ui.com/)
 - [Pure]()
 - [UIkit]()
 - [Materialize](http://materializecss.com/) - Material Design
+- [JENNIFER UI](http://seogi1004.github.io/jui/ko/index.html) - HTML5 기반의 컴포넌트 및 SVG 차트
+- [jQWidgets](http://www.jqwidgets.com/) - JQuery and HTML5 UI framework
+- 
 
 ## Git
 
@@ -58,7 +62,12 @@
 
 - [zeroclipboard](https://github.com/zeroclipboard/zeroclipboard/blob/master/docs/instructions.md) - javascript copy to clipboard.
 - [도타비 문제은행](http://gunsys.com/cbt_list/pil_gisa.htm) - 국가기술자격 필기 문제은행
+- DB Naming rule 관련
+ - [link](http://jang8584.tistory.com/entry/Database-%EB%84%A4%EC%9D%B4%EB%B0%8D-%EB%A3%B0Naming-rule)
+ - [link](http://www.sqler.com/407933)
+
 
 ## note
 - 질문하는 사람은 5분간 바보다. 질문하지 않는 사람은 영원한 바보다. (중국속담)
 - 답변 모두를 아는 것보다 질문이 무엇인지를 아는 것이 더 낫다. (James Thurber)
+- 기쁨을 나눴더니 질투가 되고, 슬픔을 나눴더니 약점이 되더라.
