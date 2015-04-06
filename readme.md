@@ -15,6 +15,8 @@
 
 ## 각종 자료 검색
 
+> 저작권에 자유로운 이미지, 폰트, 동영상, 아이콘 등 각종 자료 수집하기 위한 사이트 모음
+
 - [plxabay](http://pixabay.com/) - 무료 이미지 저장소(한글지원)
 - [morgueFile](http://www.morguefile.com/) - 무료 레퍼런스 이미지
 - [unsplash](http://unsplash.com) - 무료 레퍼런스 이미지
@@ -45,6 +47,7 @@
 ## Study
 - [Codecademy](http://www.codecademy.com/) - 프로그래밍 학습 온라인 플랫폼 ^opid/4^
 - [생활코딩](http://opentutorials.org/course/1) - 프로그래밍 학습(web, html/css, js, jquery, php, mysql, linux, java, android, ...)
+- [유지보수하기 어렵게 코딩하는 방법,Ebook](https://play.google.com/store/books/details?id=HHqqAwAAQBAJ)
 - [JAVA 동영상 강의](http://www.orentec.co.kr/teachlist/JAVA_BASIC_1/teach_sub1.php) - '난 정말 JAVA를 공부한 적이 없다구요' 강의, 오렌지 미디어 제공
 - [점프 투 파이썬](https://wikidocs.net/book/1) - 파이썬 공부
 - [도타비 문제은행](http://gunsys.com/cbt_list/pil_gisa.htm) - 국가기술자격 필기 문제은행
@@ -102,6 +105,9 @@
 
 - [git 간편 안내서](http://rogerdudler.github.io/git-guide/index.ko.html)
 - [git pro Book](https://gist.github.com/benelog/2922437) - Git Ebook, 공부
+- [누구나 쉽게 이해할 수 있는 Git 입문](http://backlogtool.com/git-guide/kr/)
+- [GitHub 실습 교육](http://www.slideshare.net/flyskykr/github-46014813) - 신승엽님의 SildeShares
+- [github & sourceTree 동영상](http://www.slideshare.net/flyskykr/github-46014813) - 케누BJ님의 동영상 강의
 - GitHub.io 구축하기
 	- [GitHub Pages](https://pages.github.com/) - 깃허브 페이지만들기
 	- [github.io 구축](https://gist.github.com/re4lfl0w/fadc6bee495c63b4f893) - re4lfl0w님 작성 글
@@ -111,6 +117,7 @@
 
 
 ## 읽어볼만한 포스팅
+
 - [[번역]2014년 가장 인기있는 5가지 프론트엔드 프레임워크 비교](http://witinweb.tumblr.com/post/105246674402/2014-5)
 - [버전 관리 시스템 유랑기, 그리고 Git 적응기](https://gist.github.com/benelog/2922437)
 
@@ -124,6 +131,7 @@
 
 
 ## note
+
 - 질문하는 사람은 5분간 바보다. 질문하지 않는 사람은 영원한 바보다. (중국속담)
 - 답변 모두를 아는 것보다 질문이 무엇인지를 아는 것이 더 낫다. (James Thurber)
 - 기쁨을 나눴더니 질투가 되고, 슬픔을 나눴더니 약점이 되더라.
