@@ -1,3 +1,13 @@
+## Study
+- [Codecademy](http://www.codecademy.com/) - 프로그래밍 학습 온라인 플랫폼 ^opid/4^
+- [생활코딩](http://opentutorials.org/course/1) - 프로그래밍 학습(web, html/css, js, jquery, php, mysql, linux, java, android, ...)
+- [JAVA 동영상 강의](http://www.orentec.co.kr/teachlist/JAVA_BASIC_1/teach_sub1.php) - '난 정말 JAVA를 공부한 적이 없다구요' 강의, 오렌지 미디어 제공
+- [점프 투 파이썬](https://wikidocs.net/book/1) - 파이썬 공부
+- [VOA News Special English](http://www.voanews.com/specialenglish/index.cfm ) - 뉴스사이트, 미국영어 학습, mp 제공
+- [Repeat After Us](http://repeatafterus.com/genre.php?g=childrensstories&s=a) - 영어 동화, Fable Aesop 이솝 우화
+- [AudioEnglish](http://www.audioenglish.net/) - 영어회화, Dialogues 섹션 추천
+
+
 ## MOOC site
 
 > MOOCs(Massive Open Online Courses, MOOCs): 미국에서 시작된 대규모 온라인 공개 강좌
@@ -7,25 +17,22 @@
 - [udacity](https://www.udacity.com/) - 컴퓨터공학 관련 강좌 다수
 
 
-## Computer Language Edu
+## Online judge
 
-- [Codecademy](http://www.codecademy.com/) - 프로그래밍 학습 온라인 플랫폼 ^opid/4^
-- [생활코딩](http://opentutorials.org/course/1) - 프로그래밍 학습(web, html/css, js, jquery, php, mysql, linux, java, android, ...)
+> Online judge: 프로그래밍 대회에서 프로그램들을 시험할 목적으로 만들어진 온라인 시스템으로 대회 연습용으로 사용되기도 한다.
 
+### 국내
 
-## Study
-- [JAVA 동영상 강의](http://www.orentec.co.kr/teachlist/JAVA_BASIC_1/teach_sub1.php) - '난 정말 JAVA를 공부한 적이 없다구요' 강의, 오렌지 미디어 제공
-- [점프 투 파이썬](https://wikidocs.net/book/1) - 파이썬 공부
-- [VOA News Special English](http://www.voanews.com/specialenglish/index.cfm ) - 뉴스사이트, 미국영어 학습, mp 제공
-- [Repeat After Us](http://repeatafterus.com/genre.php?g=childrensstories&s=a) - 영어 동화, Fable Aesop 이솝 우화
-- [AudioEnglish](http://www.audioenglish.net/) - 영어회화, Dialogues 섹션 추천
+- [더블릿](http://183.106.113.109/) - ^opid/3^
+- [Baekjoon Online Judge](http://www.acmicpc.net/) - ^opid/4^
+- [코딩도장](http://codingdojang.com/)
 
+### 국외
 
-## Python
-
-
+- [TopCoder](http://www.topcoder.com/)
 
 ## Library
+
 - [dygraphs](http://dygraphs.com/index.html) - JS 차트 라이브러리
 
 
@@ -39,22 +46,9 @@
 - [desmos](https://www.desmos.com/calculator) - 웹 그래프 작성
 
 
-## Online judge
-
-> Online judge: 프로그래밍 대회에서 프로그램들을 시험할 목적으로 만들어진 온라인 시스템으로 대회 연습용으로 사용되기도 한다.
-
-### 국내
-
-- [더블릿](http://183.106.113.109/) - ^opid/3^
-- [Baekjoon Online Judge](http://www.acmicpc.net/) - ^opid/4^
-- [코딩도장](http://codingdojang.com/)
-
-
-### 국외
-- [TopCoder](http://www.topcoder.com/)
-
 ## CSS Framework
 - [flexible.gs](http://flexible.gs/) - 그리드 시스템
+
 
 ## Front-end Framework
 
@@ -71,9 +65,14 @@
 
 ## Git
 
+- [git 간편 안내서](http://rogerdudler.github.io/git-guide/index.ko.html)
+- [git pro Book](https://gist.github.com/benelog/2922437) - Git Ebook, 공부
 - GitHub.io 구축하기
- - [GitHub Pages](https://pages.github.com/) - 깃허브 페이지만들기
- - [github.io 구축](https://gist.github.com/re4lfl0w/fadc6bee495c63b4f893) - re4lfl0w님 작성 글
+	- [GitHub Pages](https://pages.github.com/) - 깃허브 페이지만들기
+	- [github.io 구축](https://gist.github.com/re4lfl0w/fadc6bee495c63b4f893) - re4lfl0w님 작성 글
+- Markdown 에디터 프로그램
+	- [Haroopad](http://pad.haroopress.com/)
+	- [MarkdownPad](http://markdownpad.com/)
 
 
 ## 각종 데이터 검색
@@ -97,6 +96,7 @@
 
 ## 읽어볼만한 포스팅
 - [[번역]2014년 가장 인기있는 5가지 프론트엔드 프레임워크 비교](http://witinweb.tumblr.com/post/105246674402/2014-5)
+- [버전 관리 시스템 유랑기, 그리고 Git 적응기](https://gist.github.com/benelog/2922437)
 
 
 ## ETC(temp)
