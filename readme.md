@@ -1,4 +1,9 @@
-## 각종 데이터 검색
+# 목차
+
+1. [각종 자료 검색](https://github.com/Etdot/bookmark#각종 자료 검색)
+2. [tools](https://github.com/Etdot/bookmark#tools)
+
+## 각종 자료 검색
 
 - [plxabay](http://pixabay.com/) - 무료 이미지 저장소(한글지원)
 - [morgueFile](http://www.morguefile.com/) - 무료 레퍼런스 이미지
@@ -15,6 +20,16 @@
 - [iconmonstr](http://iconmonstr.com/) - 아이콘
 - [IconArchive](http://www.iconarchive.com/) - 아이콘
 - [iconfinder](https://www.iconfinder.com/free_icons) - 아이콘
+
+
+## tools
+- [draw.io](https://www.draw.io/) - 웹 다이어그램 작성
+- [gliffy](http://www.gliffy.com/) - 웹 다이어그램 작성
+- [pixlr](http://apps.pixlr.com/editor/) - 웹 이미지 편집기
+- [okmindmap](http://okmindmap.com/main.do) - 웹 마인드맵 작성 툴
+- [webwait](http://webwait.com/) - 웹사이트 속도 측정
+- [graph.tk](http://graph.tk/) - 웹 그래프 작성
+- [desmos](https://www.desmos.com/calculator) - 웹 그래프 작성
 
 
 ## Study
@@ -54,16 +69,6 @@
 ## Library
 
 - [dygraphs](http://dygraphs.com/index.html) - JS 차트 라이브러리
-
-
-## tools
-- [draw.io](https://www.draw.io/) - 웹 다이어그램 작성
-- [gliffy](http://www.gliffy.com/) - 웹 다이어그램 작성
-- [pixlr](http://apps.pixlr.com/editor/) - 웹 이미지 편집기
-- [okmindmap](http://okmindmap.com/main.do) - 웹 마인드맵 작성 툴
-- [webwait](http://webwait.com/) - 웹사이트 속도 측정
-- [graph.tk](http://graph.tk/) - 웹 그래프 작성
-- [desmos](https://www.desmos.com/calculator) - 웹 그래프 작성
 
 
 ## CSS Framework
