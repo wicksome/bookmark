@@ -13,8 +13,16 @@
 - [생활코딩](http://opentutorials.org/course/1) - 프로그래밍 학습(web, html/css, js, jquery, php, mysql, linux, java, android, ...)
 
 
-## Python
+## Study
+- [JAVA 동영상 강의](http://www.orentec.co.kr/teachlist/JAVA_BASIC_1/teach_sub1.php) - '난 정말 JAVA를 공부한 적이 없다구요' 강의, 오렌지 미디어 제공
 - [점프 투 파이썬](https://wikidocs.net/book/1) - 파이썬 공부
+- [VOA News Special English](http://www.voanews.com/specialenglish/index.cfm ) - 뉴스사이트, 미국영어 학습, mp 제공
+- [Repeat After Us](http://repeatafterus.com/genre.php?g=childrensstories&s=a) - 영어 동화, Fable Aesop 이솝 우화
+- [AudioEnglish](http://www.audioenglish.net/) - 영어회화, Dialogues 섹션 추천
+
+
+## Python
+
 
 
 ## Library
@@ -70,13 +78,21 @@
 
 ## 각종 데이터 검색
 
+- [plxabay](http://pixabay.com/) - 무료 이미지 저장소(한글지원)
+- [morgueFile](http://www.morguefile.com/) - 무료 레퍼런스 이미지
 - [unsplash](http://unsplash.com) - 무료 레퍼런스 이미지
 - [getrefe](http://getrefe.tumblr.com/) - 무료 레퍼런스 이미지
 - [littlevisuals](http://littlevisuals.co/) - 무료 레퍼런스 이미지
 - [gratisography](http://www.gratisography.com/) - 무료 레퍼런스 이미지
+- [imagebase](http://www.imagebase.net/) - 무료 레퍼런스 이미지
+- [FreePhotosBank](http://freephotosbank.com/) - 무료 이미지
+- [stockvault](http://www.stockvault.net/) - 무료 이미지(비영리 목적)
+- [무료이미지net](http://www.allfreeimages.net/) - 무료 이미지
+- [publicDomainVectors](http://publicdomainvectors.org/) - 공개 벡터 이미지
 - [iconfinder](https://www.iconfinder.com/) - 아이콘
 - [iconmonstr](http://iconmonstr.com/) - 아이콘
 - [IconArchive](http://www.iconarchive.com/) - 아이콘
+- [iconfinder](https://www.iconfinder.com/free_icons) - 아이콘
 
 
 ## 읽어볼만한 포스팅
