@@ -6,13 +6,30 @@
 - [coursera](https://www.coursera.org/)
 - [udacity](https://www.udacity.com/) - 컴퓨터공학 관련 강좌 다수
 
+
 ## Computer Language Edu
 
 - [Codecademy](http://www.codecademy.com/) - 프로그래밍 학습 온라인 플랫폼 ^opid/4^
 - [생활코딩](http://opentutorials.org/course/1) - 프로그래밍 학습(web, html/css, js, jquery, php, mysql, linux, java, android, ...)
 
+
 ## Python
-- [점프 투 파이썬](https://wikidocs.net/book/1)
+- [점프 투 파이썬](https://wikidocs.net/book/1) - 파이썬 공부
+
+
+## Library
+- [dygraphs](http://dygraphs.com/index.html) - JS 차트 라이브러리
+
+
+## tools
+- [draw.io](https://www.draw.io/) - 웹 다이어그램 작성
+- [gliffy](http://www.gliffy.com/) - 웹 다이어그램 작성
+- [pixlr](http://apps.pixlr.com/editor/) - 웹 이미지 편집기
+- [okmindmap](http://okmindmap.com/main.do) - 웹 마인드맵 작성 툴
+- [webwait](http://webwait.com/) - 웹사이트 속도 측정
+- [graph.tk](http://graph.tk/) - 웹 그래프 작성
+- [desmos](https://www.desmos.com/calculator) - 웹 그래프 작성
+
 
 ## Online judge
 
@@ -28,6 +45,9 @@
 ### 국외
 - [TopCoder](http://www.topcoder.com/)
 
+## CSS Framework
+- [flexible.gs](http://flexible.gs/) - 그리드 시스템
+
 ## Front-end Framework
 
 - [Bootstrap](http://getbootstrap.com/)
@@ -39,7 +59,7 @@
 - [Materialize](http://materializecss.com/) - Material Design
 - [JENNIFER UI](http://seogi1004.github.io/jui/ko/index.html) - HTML5 기반의 컴포넌트 및 SVG 차트
 - [jQWidgets](http://www.jqwidgets.com/) - JQuery and HTML5 UI framework
-- 
+
 
 ## Git
 
@@ -47,12 +67,17 @@
  - [GitHub Pages](https://pages.github.com/) - 깃허브 페이지만들기
  - [github.io 구축](https://gist.github.com/re4lfl0w/fadc6bee495c63b4f893) - re4lfl0w님 작성 글
 
-## data 
 
-- [unsplash](http://unsplash.com) - free reference photos
-- [getrefe](http://getrefe.tumblr.com/) - free reference photos
-- [littlevisuals](http://littlevisuals.co/) - free reference photos
-- [gratisography](http://www.gratisography.com/) - free reference photos
+## 각종 데이터 검색
+
+- [unsplash](http://unsplash.com) - 무료 레퍼런스 이미지
+- [getrefe](http://getrefe.tumblr.com/) - 무료 레퍼런스 이미지
+- [littlevisuals](http://littlevisuals.co/) - 무료 레퍼런스 이미지
+- [gratisography](http://www.gratisography.com/) - 무료 레퍼런스 이미지
+- [iconfinder](https://www.iconfinder.com/) - 아이콘
+- [iconmonstr](http://iconmonstr.com/) - 아이콘
+- [IconArchive](http://www.iconarchive.com/) - 아이콘
+
 
 ## 읽어볼만한 포스팅
 - [[번역]2014년 가장 인기있는 5가지 프론트엔드 프레임워크 비교](http://witinweb.tumblr.com/post/105246674402/2014-5)
