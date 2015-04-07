@@ -50,6 +50,7 @@
 - [유지보수하기 어렵게 코딩하는 방법,Ebook](https://play.google.com/store/books/details?id=HHqqAwAAQBAJ)
 - [JAVA 동영상 강의](http://www.orentec.co.kr/teachlist/JAVA_BASIC_1/teach_sub1.php) - '난 정말 JAVA를 공부한 적이 없다구요' 강의, 오렌지 미디어 제공
 - [점프 투 파이썬](https://wikidocs.net/book/1) - 파이썬 공부
+- [typing.io](https://typing.io/lessons) - 소스 코드로 타자 연습 사이트
 - [도타비 문제은행](http://gunsys.com/cbt_list/pil_gisa.htm) - 국가기술자격 필기 문제은행
 - [VOA News Special English](http://www.voanews.com/specialenglish/index.cfm ) - 뉴스사이트, 미국영어 학습, mp 제공
 - [Repeat After Us](http://repeatafterus.com/genre.php?g=childrensstories&s=a) - 영어 동화, Fable Aesop 이솝 우화
