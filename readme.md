@@ -32,6 +32,7 @@
 - [iconmonstr](http://iconmonstr.com/) - 아이콘
 - [IconArchive](http://www.iconarchive.com/) - 아이콘
 - [iconfinder](https://www.iconfinder.com/free_icons) - 아이콘
+- [Dashel](http://www.smashingmagazine.com/2015/01/05/freebie-dashel-icon-set-svg-psd-png/) - 절제된 컬러, 명확한 아웃라인이 세련된 무료 벡터 아이콘 세트
 
 
 ## tools
