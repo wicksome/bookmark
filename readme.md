@@ -49,6 +49,7 @@
 - [whois](http://cqcounter.com/whois/) - ip 위치 추적
 - [Android Niceties](http://androidniceties.tumblr.com/) - Andorid App UI 디자인
 - [Troy](http://troy.labs.daum.net/) - 반응형 웹 개발시 다양한 디바이스 테스트
+- [tradukka](http://tradukka.com/unit/speed/meter-second?hl=ko) - 단위, 속도 각 측정 속도 변환
 
 
 ## Study
