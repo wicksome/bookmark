@@ -8,25 +8,25 @@
 > 저작권에 자유로운 이미지나 폰트, 동영상, 아이콘 등 각종 자료 수집하기 위한 사이트 모음
 
 - [디자인 레퍼런스 아카이브](http://ref.akaiv.com/) - 웹디자인 관련 자료 수집 스크랩북
-- [plxabay](http://pixabay.com/) - 무료 이미지 저장소(한글지원)
-- [morgueFile](http://www.morguefile.com/) - 무료 레퍼런스 이미지
-- [unsplash](http://unsplash.com) - 무료 레퍼런스 이미지
-- [getrefe](http://getrefe.tumblr.com/) - 무료 레퍼런스 이미지
-- [littlevisuals](http://littlevisuals.co/) - 무료 레퍼런스 이미지
-- [gratisography](http://www.gratisography.com/) - 무료 레퍼런스 이미지
-- [imagebase](http://www.imagebase.net/) - 무료 레퍼런스 이미지
-- [FreePhotosBank](http://freephotosbank.com/) - 무료 이미지
-- [stockvault](http://www.stockvault.net/) - 무료 이미지(비영리 목적)
-- [무료이미지net](http://www.allfreeimages.net/) - 무료 이미지
+- [plxabay](http://pixabay.com/) - 이미지 저장소(한글지원)
+- [morgueFile](http://www.morguefile.com/) - 이미지
+- [unsplash](http://unsplash.com) - 이미지
+- [getrefe](http://getrefe.tumblr.com/) - 이미지
+- [littlevisuals](http://littlevisuals.co/) - 이미지
+- [gratisography](http://www.gratisography.com/) - 이미지
+- [imagebase](http://www.imagebase.net/) - 이미지
+- [FreePhotosBank](http://freephotosbank.com/) - 이미지
+- [stockvault](http://www.stockvault.net/) - 이미지(비영리 목적)
+- [무료이미지net](http://www.allfreeimages.net/) - 이미지
 - [publicDomainVectors](http://publicdomainvectors.org/) - 공개 벡터 이미지
 - [iconfinder](https://www.iconfinder.com/) - 아이콘
 - [iconmonstr](http://iconmonstr.com/) - 아이콘
 - [IconArchive](http://www.iconarchive.com/) - 아이콘
 - [iconfinder](https://www.iconfinder.com/free_icons) - 아이콘
 - [Dashel](http://www.smashingmagazine.com/2015/01/05/freebie-dashel-icon-set-svg-psd-png/) - 절제된 컬러, 명확한 아웃라인이 세련된 무료 벡터 아이콘 세트
-- [dafont](http://www.dafont.com/) - 영문 폰트 다운로드
+- [dafont](http://www.dafont.com/) - 영문 폰트
 - [2014년 TOP 100 무료 폰트모음](http://www.fbml.co.kr/2014/03/28/2014-top-100-free-font/) - 블로그 포스팅
-- [vimeo](https://vimeo.com/) - 각종 비디오 자료
+- [vimeo](https://vimeo.com/) - 비디오 자료
 
 
 ## tools
@@ -48,6 +48,7 @@
 - [utrace](http://en.utrace.de/) - ip 위치 추적
 - [whois](http://cqcounter.com/whois/) - ip 위치 추적
 - [Android Niceties](http://androidniceties.tumblr.com/) - Andorid App UI 디자인
+- [Troy](http://troy.labs.daum.net/) - 반응형 웹 개발시 다양한 디바이스 테스트
 
 
 ## Study
@@ -126,6 +127,9 @@
 
 ## 버전관리, Git
 
+- [GitHub](https://github.com/)
+- [Bitbucket](https://bitbucket.org/)
+- [GoogleCode](https://code.google.com/)
 - [git 간편 안내서](http://rogerdudler.github.io/git-guide/index.ko.html)
 - [git pro Book](https://gist.github.com/benelog/2922437) - Git Ebook, 공부
 - [누구나 쉽게 이해할 수 있는 Git 입문](http://backlogtool.com/git-guide/kr/)
@@ -137,6 +141,15 @@
 - Markdown 에디터 프로그램
 	- [Haroopad](http://pad.haroopress.com/)
 	- [MarkdownPad](http://markdownpad.com/)
+- [gitlab](http://gitlab.org/) - 서비스형 git 관리도구
+
+
+## 정규표현식
+- [RegExr](http://www.regexr.com/) - 정규표현식을 테스트하고 다른 사람이 만든 표현식을 사용할 수 있는 서비스
+- [Regexper](http://regexper.com/) - 정규표현식 시각화
+- [txt2re](http://txt2re.com/index.php3) - 정규표현식 패턴화 추천
+- [RegExpTool](http://www.gethifi.com/tools/regex)
+- [Rubular](http://www.rubular.com/) - 정규표현식 테스트
 
 
 ## 읽어볼만한 포스팅
@@ -149,8 +162,9 @@
 
 - [zeroclipboard](https://github.com/zeroclipboard/zeroclipboard/blob/master/docs/instructions.md) - javascript copy to clipboard.
 - DB Naming rule 관련
- - [link](http://jang8584.tistory.com/entry/Database-%EB%84%A4%EC%9D%B4%EB%B0%8D-%EB%A3%B0Naming-rule)
- - [link](http://www.sqler.com/407933)
+	- [link](http://jang8584.tistory.com/entry/Database-%EB%84%A4%EC%9D%B4%EB%B0%8D-%EB%A3%B0Naming-rule)
+	- [link](http://www.sqler.com/407933)
+- [개발에 도움이 되는 웹사이트와 도구들](https://www.facebook.com/notes/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/%EA%B0%9C%EB%B0%9C%EC%97%90-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%99%80-%EB%8F%84%EA%B5%AC%EB%93%A4/417702378270304) - 생활코딩 페이스북 그룹 문서
 
 
 ## note
