@@ -1,21 +1,13 @@
 # 목차
 
-1. [각종 자료 검색](https://github.com/Etdot/bookmark#%EA%B0%81%EC%A2%85-%EC%9E%90%EB%A3%8C-%EA%B2%80%EC%83%89)
-2. [tools](https://github.com/Etdot/bookmark#tools)
-3. [Study](https://github.com/Etdot/bookmark#study)
-4. [MOOC site](https://github.com/Etdot/bookmark#mooc-site)
-5. [Online judge](https://github.com/Etdot/bookmark#online-judge)
-    - [국내](https://github.com/Etdot/bookmark#%EA%B5%AD%EB%82%B4)
-    - [국외](https://github.com/Etdot/bookmark#%EA%B5%AD%EC%99%B8)
-6. [Library](https://github.com/Etdot/bookmark#library)
-7. [Framework](https://github.com/Etdot/bookmark#front-end-framework)
-8. [버전관리, Git](https://github.com/Etdot/bookmark#%EB%B2%84%EC%A0%84%EA%B4%80%EB%A6%AC-git)
+> 작성중...
 
 
-## 각종 자료 검색
+## 각종 자료 검색 및 다운로드
 
-> 저작권에 자유로운 이미지, 폰트, 동영상, 아이콘 등 각종 자료 수집하기 위한 사이트 모음
+> 저작권에 자유로운 이미지나 폰트, 동영상, 아이콘 등 각종 자료 수집하기 위한 사이트 모음
 
+- [디자인 레퍼런스 아카이브](http://ref.akaiv.com/) - 웹디자인 관련 자료 수집 스크랩북
 - [plxabay](http://pixabay.com/) - 무료 이미지 저장소(한글지원)
 - [morgueFile](http://www.morguefile.com/) - 무료 레퍼런스 이미지
 - [unsplash](http://unsplash.com) - 무료 레퍼런스 이미지
@@ -32,6 +24,9 @@
 - [IconArchive](http://www.iconarchive.com/) - 아이콘
 - [iconfinder](https://www.iconfinder.com/free_icons) - 아이콘
 - [Dashel](http://www.smashingmagazine.com/2015/01/05/freebie-dashel-icon-set-svg-psd-png/) - 절제된 컬러, 명확한 아웃라인이 세련된 무료 벡터 아이콘 세트
+- [dafont](http://www.dafont.com/) - 영문 폰트 다운로드
+- [2014년 TOP 100 무료 폰트모음](http://www.fbml.co.kr/2014/03/28/2014-top-100-free-font/) - 블로그 포스팅
+- [vimeo](https://vimeo.com/) - 각종 비디오 자료
 
 
 ## tools
@@ -42,6 +37,17 @@
 - [webwait](http://webwait.com/) - 웹사이트 속도 측정
 - [graph.tk](http://graph.tk/) - 웹 그래프 작성
 - [desmos](https://www.desmos.com/calculator) - 웹 그래프 작성
+- [ColorScripter](http://colorscripter.com/) - 블로그에 코드 하이라이팅해서 올리기
+- [smallpdf](http://smallpdf.com/kr/pdf-to-jpg) - PDF JPG 변환
+- [JavaScript Compressor ](http://javascript-compressor.com/) - js 파일 min 으로 압축하기
+- [CSS Compressor](http://csscompressor.com/) - css 파일 압축하기
+- [COLOURlovers](http://www.colourlovers.com/palettes) - 색상 조합
+- [Adobe Color CC](https://color.adobe.com/ko/create/color-wheel/) - 색상 조합
+- [RGB 변환](http://www.kitaq.net/lib/rgb/) - RGB 10진수,16진수 변환
+- [geoiptool](http://www.geoiptool.com/en/) - ip 위치 추적
+- [utrace](http://en.utrace.de/) - ip 위치 추적
+- [whois](http://cqcounter.com/whois/) - ip 위치 추적
+- [Android Niceties](http://androidniceties.tumblr.com/) - Andorid App UI 디자인
 
 
 ## Study
@@ -90,7 +96,9 @@
 
 - [Bootstrap](http://getbootstrap.com/)
 	- [Bootstrap form builder](http://bootsnipp.com/forms?version=3)
-	- [Bootswatch](http://bootswatch.com/) - 무료 부트스트랩 테마
+	- [Bootswatch](http://bootswatch.com/) - 무료 부트스트랩 테마, 템플릿
+	- [bootstrapzero](http://www.bootstrapzero.com/) - 무료 부트스트랩 테마, 템플릿
+	- [startbootstrap](http://startbootstrap.com/) - 무료 부트스트랩 테마, 템플릿
 - [Foundation](http://foundation.zurb.com/)
 - [Semantic UI](http://semantic-ui.com/)
 - [Pure](http://purecss.io/)
