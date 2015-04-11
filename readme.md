@@ -36,7 +36,6 @@
 - [slideshare](www.slideshare.net) - PPT 공유 사이트
 - [Made in 양선배](ynr007.blog.me)(블로그) - PPT 강의, 자료
 - [EnvatoMarket](market.envato.com) - PPT 자료(유료)
-- 
 
 
 ## tools
