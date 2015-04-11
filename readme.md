@@ -41,6 +41,9 @@
 ## tools
 - [draw.io](https://www.draw.io/) - 웹 다이어그램 작성
 - [gliffy](http://www.gliffy.com/) - 웹 다이어그램 작성
+- [Cacoo](https://cacoo.com/lang/ko/?ref=logo) - 웹 다이어그램
+- [web sequence diagrams](https://www.websequencediagrams.com/#) - 웹에서 시퀀스 다이어그램 작성
+- [blockdiag](http://blockdiag.appspot.com/) - 웹 시퀀스 다이어그램
 - [pixlr](http://apps.pixlr.com/editor/) - 웹 이미지 편집기
 - [okmindmap](http://okmindmap.com/main.do) - 웹 마인드맵 작성 툴
 - [webwait](http://webwait.com/) - 웹사이트 속도 측정
@@ -104,6 +107,7 @@
 ## Library
 
 - [dygraphs](http://dygraphs.com/index.html) - JS 차트 라이브러리
+- [DATEDRIOOER](http://felicegattuso.com/projects/datedropper/) - JQuery 데이트 플러그인
 
 
 ## Front-end, Mobile, UI, CSS Framework
@@ -177,6 +181,8 @@
 - [좋은 커밋 메시지 작성하기](http://haruair.com/blog/2738)
 - [논문 쓰는 방법](http://blog.naver.com/ccm9922/220322649076)
 - [코딩 입문자, 어떤 언어부터 배워야 할까](http://www.bloter.net/archives/196684)
+- [[IT인물열전]자바의 아버지, 제임스 고슬링](http://it.donga.com/20869/)
+- [새내기 개발자의 JUnit 여행기](http://www.nextree.co.kr/p11104/) - 이클립스에서 유닛테스트하기
 
 
 ## ETC(temp)
