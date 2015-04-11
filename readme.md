@@ -8,6 +8,7 @@
 > 저작권에 자유로운 이미지나 폰트, 동영상, 아이콘 등 각종 자료 수집하기 위한 사이트 모음
 
 - [디자인 레퍼런스 아카이브](http://ref.akaiv.com/) - 웹디자인 관련 자료 수집 스크랩북
+- [Printerest](www.pinterest.com) - 각종 프로젝트, 자료, 관심사 아이디어 공유
 - [plxabay](http://pixabay.com/) - 이미지 저장소(한글지원)
 - [morgueFile](http://www.morguefile.com/) - 이미지
 - [unsplash](http://unsplash.com) - 이미지
@@ -17,16 +18,25 @@
 - [imagebase](http://www.imagebase.net/) - 이미지
 - [FreePhotosBank](http://freephotosbank.com/) - 이미지
 - [stockvault](http://www.stockvault.net/) - 이미지(비영리 목적)
+- [IM Free](http://www.imcreator.com/free?usource=lc) - 이미지
 - [무료이미지net](http://www.allfreeimages.net/) - 이미지
 - [publicDomainVectors](http://publicdomainvectors.org/) - 공개 벡터 이미지
 - [iconfinder](https://www.iconfinder.com/) - 아이콘
 - [iconmonstr](http://iconmonstr.com/) - 아이콘
 - [IconArchive](http://www.iconarchive.com/) - 아이콘
 - [iconfinder](https://www.iconfinder.com/free_icons) - 아이콘
+- [theNounProject](https://thenounproject.com/) - 픽토그램
+- [flaticon](http://www.flaticon.com/) - 픽토그램
 - [Dashel](http://www.smashingmagazine.com/2015/01/05/freebie-dashel-icon-set-svg-psd-png/) - 절제된 컬러, 명확한 아웃라인이 세련된 무료 벡터 아이콘 세트
+- [Dribbble](https://dribbble.com/) - 각종 디자인
 - [dafont](http://www.dafont.com/) - 영문 폰트
 - [2014년 TOP 100 무료 폰트모음](http://www.fbml.co.kr/2014/03/28/2014-top-100-free-font/) - 블로그 포스팅
 - [vimeo](https://vimeo.com/) - 비디오 자료
+- [SmileTemplates](http://www.smiletemplates.com/) - PPT 템플릿
+- [slideshare](www.slideshare.net) - PPT 공유 사이트
+- [Made in 양선배](ynr007.blog.me)(블로그) - PPT 강의, 자료
+- [EnvatoMarket](market.envato.com) - PPT 자료(유료)
+- 
 
 
 ## tools
@@ -55,6 +65,9 @@
 ## Study
 - [Codecademy](http://www.codecademy.com/) - 프로그래밍 학습 온라인 플랫폼 ^opid/4^
 - [생활코딩](http://opentutorials.org/course/1) - 프로그래밍 학습(web, html/css, js, jquery, php, mysql, linux, java, android, ...)
+- [코드닷오아르지](http://code.org/) - 프로그래밍 연습
+- [runnable](http://runnable.com/) - 코드 검색, 테스트 사이트
+- [Hackermeter](http://www.hackermeter.com/) - 프로그래밍 실력 테스트
 - [유지보수하기 어렵게 코딩하는 방법,Ebook](https://play.google.com/store/books/details?id=HHqqAwAAQBAJ)
 - [JAVA 동영상 강의](http://www.orentec.co.kr/teachlist/JAVA_BASIC_1/teach_sub1.php) - '난 정말 JAVA를 공부한 적이 없다구요' 강의, 오렌지 미디어 제공
 - [점프 투 파이썬](https://wikidocs.net/book/1) - 파이썬 공부
@@ -74,7 +87,7 @@
 - [udacity](https://www.udacity.com/) - 컴퓨터공학 관련 강좌 다수
 
 
-## Online judge
+## Online judge, Programming
 
 > Online judge: 프로그래밍 대회에서 프로그램들을 시험할 목적으로 만들어진 온라인 시스템으로 대회 연습용으로 사용되기도 한다.
 
@@ -126,6 +139,10 @@
 - [knockoutjs](http://knockoutjs.com/)
 
 
+## Python
+- [pycharm](https://www.jetbrains.com/pycharm/) - python IDE
+
+
 ## 버전관리, Git
 
 - [GitHub](https://github.com/)
@@ -153,10 +170,14 @@
 - [Rubular](http://www.rubular.com/) - 정규표현식 테스트
 
 
-## 읽어볼만한 포스팅
+## 읽어 볼만한 포스팅, 기사
 
 - [[번역]2014년 가장 인기있는 5가지 프론트엔드 프레임워크 비교](http://witinweb.tumblr.com/post/105246674402/2014-5)
 - [버전 관리 시스템 유랑기, 그리고 Git 적응기](https://gist.github.com/benelog/2922437)
+- [자바와 웹 어플리케이션 서버 성능 튜닝](http://www.openseed.co.kr/54)
+- [좋은 커밋 메시지 작성하기](http://haruair.com/blog/2738)
+- [논문 쓰는 방법](http://blog.naver.com/ccm9922/220322649076)
+- [코딩 입문자, 어떤 언어부터 배워야 할까](http://www.bloter.net/archives/196684)
 
 
 ## ETC(temp)
