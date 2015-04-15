@@ -78,6 +78,7 @@
 - [VOA News Special English](http://www.voanews.com/specialenglish/index.cfm ) - 뉴스사이트, 미국영어 학습, mp 제공
 - [Repeat After Us](http://repeatafterus.com/genre.php?g=childrensstories&s=a) - 영어 동화, Fable Aesop 이솝 우화
 - [AudioEnglish](http://www.audioenglish.net/) - 영어회화, Dialogues 섹션 추천
+- [JS: Interview Algorithm](http://www.thatjsdude.com/interview/js1.html) - 자바스크립트 알고리즘
 
 
 ## MOOC site
@@ -104,13 +105,27 @@
 - [TopCoder](http://www.topcoder.com/)
 
 
-## Library
+## Framework - Javascript
+
+- [Backbone.js](http://backbonejs.org/) - 클라이언트 사이드 웹애플리케이션 개발에 MVC패턴 적용을 가능하게 해주는 자바스크립트 프레임워크
+	- [한글 번역본](http://iwidgets.kr/document/backbonejs.html)
+	- [Tutorials](http://backbonetutorials.com/)
+- [underscore.js](http://underscorejs.org/)
+- [AngularJS](https://angularjs.org/)
+- [emberjs](http://emberjs.com/)
+- [knockoutjs](http://knockoutjs.com/)
+
+
+## Library, Plugin - Javascript, JQuery 
 
 - [dygraphs](http://dygraphs.com/index.html) - JS 차트 라이브러리
 - [DATEDRIOOER](http://felicegattuso.com/projects/datedropper/) - JQuery 데이트 플러그인
+- [RIMELINER.JS](https://www.technotarek.com/timeliner/) - JS 타임라인 라이브러리
+- [Colorbox](http://www.jacklmoore.com/colorbox/) - JQuery 라이트박스
+- [JQuery Timeliner](http://www.csslab.cl/2011/08/18/jquery-timelinr/) - JQuery 타임라인
 
 
-## Front-end, Mobile, UI, CSS Framework
+## Framework - Front-end, UI, CSSMobile
 
 - [Bootstrap](http://getbootstrap.com/)
 	- [Bootstrap form builder](http://bootsnipp.com/forms?version=3)
@@ -131,19 +146,12 @@
 - [flexible.gs](http://flexible.gs/) - 그리드 시스템
 
 
-## Javascript Framework
-
-- [Backbone.js](http://backbonejs.org/) - 클라이언트 사이드 웹애플리케이션 개발에 MVC패턴 적용을 가능하게 해주는 자바스크립트 프레임워크
-	- [한글 번역본](http://iwidgets.kr/document/backbonejs.html)
-	- [Tutorials](http://backbonetutorials.com/)
-- [underscore.js](http://underscorejs.org/)
-- [AngularJS](https://angularjs.org/)
-- [emberjs](http://emberjs.com/)
-- [knockoutjs](http://knockoutjs.com/)
-
-
 ## Python
 - [pycharm](https://www.jetbrains.com/pycharm/) - python IDE
+
+
+## Android
+- [Android Asynchronous Http Client](http://loopj.com/android-async-http/) - 콜백기반 Http 클라이언트 라이브러리
 
 
 ## 버전관리, Git
@@ -183,6 +191,11 @@
 - [코딩 입문자, 어떤 언어부터 배워야 할까](http://www.bloter.net/archives/196684)
 - [[IT인물열전]자바의 아버지, 제임스 고슬링](http://it.donga.com/20869/)
 - [새내기 개발자의 JUnit 여행기](http://www.nextree.co.kr/p11104/) - 이클립스에서 유닛테스트하기
+- [윈도우빌더로 이클립스 GUI 개발 환경 만들기](http://blog.naver.com/winsweet/220250119564)
+- [해외호스팅 처음사용자에게 특히 추천하는 A2 Hosting 51%할인행사 정보 및 이용후기](http://webnote.pe.kr/blogging/hosting/a2hosting/)
+- [개발에 도움이 되는 웹사이트와 도구들](https://www.facebook.com/notes/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/%EA%B0%9C%EB%B0%9C%EC%97%90-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%99%80-%EB%8F%84%EA%B5%AC%EB%93%A4/417702378270304) - 생활코딩 페이스북 그룹 문서
+- [소프트웨어의 본질](http://zxzl.tumblr.com/post/45574394251) - 동영상
+- [텔레그램으로 서버 모니터링하기](http://truefeel.tistory.com/224)
 
 
 ## ETC(temp)
@@ -191,7 +204,7 @@
 - DB Naming rule 관련
 	- [link](http://jang8584.tistory.com/entry/Database-%EB%84%A4%EC%9D%B4%EB%B0%8D-%EB%A3%B0Naming-rule)
 	- [link](http://www.sqler.com/407933)
-- [개발에 도움이 되는 웹사이트와 도구들](https://www.facebook.com/notes/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/%EA%B0%9C%EB%B0%9C%EC%97%90-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%99%80-%EB%8F%84%EA%B5%AC%EB%93%A4/417702378270304) - 생활코딩 페이스북 그룹 문서
+
 
 
 ## note
