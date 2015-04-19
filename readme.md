@@ -8,6 +8,7 @@
 > 저작권에 자유로운 이미지나 폰트, 동영상, 아이콘 등 각종 자료 수집하기 위한 사이트 모음
 
 - [디자인 레퍼런스 아카이브](http://ref.akaiv.com/) - 웹디자인 관련 자료 수집 스크랩북
+- [앱템플릿](http://pnet.kr/apps) - 스마트폰 개발자와 디자이너를 위한 스크린 패턴 딕셔너리
 - [Printerest](www.pinterest.com) - 각종 프로젝트, 자료, 관심사 아이디어 공유
 - [plxabay](http://pixabay.com/) - 이미지 저장소(한글지원)
 - [morgueFile](http://www.morguefile.com/) - 이미지
@@ -39,6 +40,7 @@
 
 
 ## tools
+
 - [draw.io](https://www.draw.io/) - 웹 다이어그램 작성
 - [gliffy](http://www.gliffy.com/) - 웹 다이어그램 작성
 - [Cacoo](https://cacoo.com/lang/ko/?ref=logo) - 웹 다이어그램
@@ -65,6 +67,7 @@
 
 
 ## Study
+
 - [Codecademy](http://www.codecademy.com/) - 프로그래밍 학습 온라인 플랫폼 ^opid/4^
 - [생활코딩](http://opentutorials.org/course/1) - 프로그래밍 학습(web, html/css, js, jquery, php, mysql, linux, java, android, ...)
 - [코드닷오아르지](http://code.org/) - 프로그래밍 연습
@@ -88,6 +91,7 @@
 - [edx](https://www.edx.org/)
 - [coursera](https://www.coursera.org/)
 - [udacity](https://www.udacity.com/) - 컴퓨터공학 관련 강좌 다수
+- [골라 배우자, 전세계 온라인 공개 강좌 45곳](http://www.bloter.net/archives/225814) - 블로터 기사
 
 
 ## Online judge, Programming
@@ -105,27 +109,28 @@
 - [TopCoder](http://www.topcoder.com/)
 
 
-## Framework - Javascript
+## JavaScript, JQuery, ...
+
+> JavaScript, JQuery 에 관련된 라이브러리, 플러그인, 프레임워크, 컴포넌트 등에 관한 사이트 모음
 
 - [Backbone.js](http://backbonejs.org/) - 클라이언트 사이드 웹애플리케이션 개발에 MVC패턴 적용을 가능하게 해주는 자바스크립트 프레임워크
 	- [한글 번역본](http://iwidgets.kr/document/backbonejs.html)
 	- [Tutorials](http://backbonetutorials.com/)
-- [underscore.js](http://underscorejs.org/)
-- [AngularJS](https://angularjs.org/)
-- [emberjs](http://emberjs.com/)
-- [knockoutjs](http://knockoutjs.com/)
-
-
-## Library, Plugin - Javascript, JQuery 
-
+- [underscore.js](http://underscorejs.org/) - Framework
+- [AngularJS](https://angularjs.org/) - Framework
+- [emberjs](http://emberjs.com/) - Framework
+- [knockoutjs](http://knockoutjs.com/) - Framework
 - [dygraphs](http://dygraphs.com/index.html) - JS 차트 라이브러리
 - [DATEDRIOOER](http://felicegattuso.com/projects/datedropper/) - JQuery 데이트 플러그인
 - [RIMELINER.JS](https://www.technotarek.com/timeliner/) - JS 타임라인 라이브러리
 - [Colorbox](http://www.jacklmoore.com/colorbox/) - JQuery 라이트박스
 - [JQuery Timeliner](http://www.csslab.cl/2011/08/18/jquery-timelinr/) - JQuery 타임라인
+- [zeroclipboard](https://github.com/zeroclipboard/zeroclipboard/blob/master/docs/instructions.md) - javascript copy to clipboard.
 
 
-## Framework - Front-end, UI, CSSMobile
+## UI(User Interface), CSS, ...
+
+> 프론트앤드에서 UI, CSS 등 디자인 관련 사이트 모음. (자바스크립트와 분류하기가 에메모호하다..)
 
 - [Bootstrap](http://getbootstrap.com/)
 	- [Bootstrap form builder](http://bootsnipp.com/forms?version=3)
@@ -146,11 +151,29 @@
 - [flexible.gs](http://flexible.gs/) - 그리드 시스템
 
 
-## Python
+## Python, Django, ...
+
 - [pycharm](https://www.jetbrains.com/pycharm/) - python IDE
+- [The Django Book](http://www.djangobook.com/en/2.0/index.html)
+- [Joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Python/DJango/Tutorial01) - Django 튜토리얼
+- [자이썬(Jytion)완벽 안내서](http://jythonbook-ko.readthedocs.org/en/latest/index.html)
+- [파이썬을 배우는 최고의 방법](http://nolboo.github.io/blog/2014/08/10/the-best-way-to-learn-python/) - 블로그 포스팅
+- [Converting BeautifulSoup 4 for Python 3](http://annelagang.blogspot.kr/2012/11/beautifulsoup-4-for-python-3x.html)
+
+
+## JAVA, JSP, Spring, ...
+
+- [JAVA SDK 7](http://docs.oracle.com/javase/7/docs/api/)
+- [JAVA SDK 8](http://docs.oracle.com/javase/8/docs/api/index.html)
+- [OpenJDK](http://openjdk.java.net/)
+- [GNUJAVA](http://gnujava.com:8000/main/main.jsp) - 자바 커뮤니티
+- [JAMA](http://math.nist.gov/javanumerics/jama/) - Java Matrix Package
+- [프로젝트를 exe 실행파일로 만들기](http://forum.falinux.com/zbxe/index.php?document_srl=555614&mid=lecture_tip)
+- [자바의신 저자 블로그](http://www.tuning-java.com/)
 
 
 ## Android
+
 - [Android Asynchronous Http Client](http://loopj.com/android-async-http/) - 콜백기반 Http 클라이언트 라이브러리
 
 
@@ -167,6 +190,8 @@
 - GitHub.io 구축하기
 	- [GitHub Pages](https://pages.github.com/) - 깃허브 페이지만들기
 	- [github.io 구축](https://gist.github.com/re4lfl0w/fadc6bee495c63b4f893) - re4lfl0w님 작성 글
+	- [jekyllrb](http://jekyllrb.com/) - github.io로 블로그만들기
+	- [jekyllbootstrap](http://jekyllbootstrap.com/) - github.io로 블로그만들기
 - Markdown 에디터 프로그램
 	- [Haroopad](http://pad.haroopress.com/)
 	- [MarkdownPad](http://markdownpad.com/)
@@ -174,6 +199,7 @@
 
 
 ## 정규표현식
+
 - [RegExr](http://www.regexr.com/) - 정규표현식을 테스트하고 다른 사람이 만든 표현식을 사용할 수 있는 서비스
 - [Regexper](http://regexper.com/) - 정규표현식 시각화
 - [txt2re](http://txt2re.com/index.php3) - 정규표현식 패턴화 추천
@@ -196,11 +222,11 @@
 - [개발에 도움이 되는 웹사이트와 도구들](https://www.facebook.com/notes/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/%EA%B0%9C%EB%B0%9C%EC%97%90-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%99%80-%EB%8F%84%EA%B5%AC%EB%93%A4/417702378270304) - 생활코딩 페이스북 그룹 문서
 - [소프트웨어의 본질](http://zxzl.tumblr.com/post/45574394251) - 동영상
 - [텔레그램으로 서버 모니터링하기](http://truefeel.tistory.com/224)
+- [[node.js] cluster를 이용한 멀티코어(multi-core) 사용](http://blog.redjini.com/257)
 
 
 ## ETC(temp)
 
-- [zeroclipboard](https://github.com/zeroclipboard/zeroclipboard/blob/master/docs/instructions.md) - javascript copy to clipboard.
 - DB Naming rule 관련
 	- [link](http://jang8584.tistory.com/entry/Database-%EB%84%A4%EC%9D%B4%EB%B0%8D-%EB%A3%B0Naming-rule)
 	- [link](http://www.sqler.com/407933)
