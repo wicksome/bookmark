@@ -1,6 +1,18 @@
 # 목차
 
-> 작성중...
+> 유용한 사이트들을 모아놓은 페이지로, (나름) 카테고리별로 수집하였다. 추후에 데이터화하여 따로 웹페이지를 만들어볼 생각으로 계속 수집중에 있다.
+
+1. 자료 검색
+2. 유틸, 웹앱, 도구
+3. MOOC, 학습
+4. 알고리즘, 문제풀이
+5. 자바스크립트
+6. 디자인
+7. 파이썬
+8. 자바
+9. 안드로이드
+10. 버전관리
+11. 정규표현식
 
 
 ## 각종 자료 검색 및 다운로드
@@ -39,7 +51,7 @@
 - [EnvatoMarket](market.envato.com) - PPT 자료(유료)
 
 
-## tools
+## Tools, Web App ...
 
 - [draw.io](https://www.draw.io/) - 웹 다이어그램 작성
 - [gliffy](http://www.gliffy.com/) - 웹 다이어그램 작성
@@ -66,8 +78,14 @@
 - [tradukka](http://tradukka.com/unit/speed/meter-second?hl=ko) - 단위, 속도 각 측정 속도 변환
 
 
-## Study
+## MOOC, Study ...
 
+> MOOCs(Massive Open Online Courses, MOOCs): 미국에서 시작된 대규모 온라인 공개 강좌
+
+- [edx](https://www.edx.org/)
+- [coursera](https://www.coursera.org/)
+- [udacity](https://www.udacity.com/) - 컴퓨터공학 관련 강좌 다수
+- [골라 배우자, 전세계 온라인 공개 강좌 45곳](http://www.bloter.net/archives/225814) - 블로터 기사
 - [Codecademy](http://www.codecademy.com/) - 프로그래밍 학습 온라인 플랫폼 ^opid/4^
 - [생활코딩](http://opentutorials.org/course/1) - 프로그래밍 학습(web, html/css, js, jquery, php, mysql, linux, java, android, ...)
 - [코드닷오아르지](http://code.org/) - 프로그래밍 연습
@@ -84,29 +102,30 @@
 - [JS: Interview Algorithm](http://www.thatjsdude.com/interview/js1.html) - 자바스크립트 알고리즘
 
 
-## MOOC site
-
-> MOOCs(Massive Open Online Courses, MOOCs): 미국에서 시작된 대규모 온라인 공개 강좌
-
-- [edx](https://www.edx.org/)
-- [coursera](https://www.coursera.org/)
-- [udacity](https://www.udacity.com/) - 컴퓨터공학 관련 강좌 다수
-- [골라 배우자, 전세계 온라인 공개 강좌 45곳](http://www.bloter.net/archives/225814) - 블로터 기사
-
-
-## Online judge, Programming
+## Online judge, Algorithm ... 
 
 > Online judge: 프로그래밍 대회에서 프로그램들을 시험할 목적으로 만들어진 온라인 시스템으로 대회 연습용으로 사용되기도 한다.
 
 ### 국내
 
-- [더블릿](http://183.106.113.109/) - ^opid/3^
+- [더블릿](http://183.106.113.109/) - <sub>opid/3</sub>
 - [Baekjoon Online Judge](http://www.acmicpc.net/) - <sub>opid/4</sub>
 - [코딩도장](http://codingdojang.com/)
+- [Lavida](http://judge.lavida.us/index.php)
+- [ALGOSPOT](https://algospot.com/)
+- [Project Euler](http://euler.synap.co.kr/) - 수학적인 문제들을 프로그래밍으로 해결해 나가는 퀴즈 사이트
+- [codingfun](http://codingfun.net/?hc_location=ufi) - 한국 정보올림피아드 기출문제
 
 ### 국외
 
 - [TopCoder](http://www.topcoder.com/)
+- [UVa Online Judge](http://uva.onlinejudge.org/)
+- [Hackerrank](https://www.hackerrank.com/domains)
+- [Google Code Jam](https://code.google.com/codejam)
+- [VISUALGO](http://visualgo.net/) - 알고리즘 시각화
+- [Codebyte](http://coderbyte.com/)
+- [CheckiO](http://www.checkio.org/) - 알고리즘을 게임으로 접하는 사이트
+- [ALGORITHMIA](https://algorithmia.com/) - 알고리즘 마켓
 
 
 ## JavaScript, JQuery, ...
@@ -159,6 +178,7 @@
 - [자이썬(Jytion)완벽 안내서](http://jythonbook-ko.readthedocs.org/en/latest/index.html)
 - [파이썬을 배우는 최고의 방법](http://nolboo.github.io/blog/2014/08/10/the-best-way-to-learn-python/) - 블로그 포스팅
 - [Converting BeautifulSoup 4 for Python 3](http://annelagang.blogspot.kr/2012/11/beautifulsoup-4-for-python-3x.html)
+- [Python + BeautifulSoup을 이용해서 랭킹 JSON으로 만들기](https://www.acmicpc.net/tutorial/view/4)
 
 
 ## JAVA, JSP, Spring, ...
@@ -223,6 +243,7 @@
 - [소프트웨어의 본질](http://zxzl.tumblr.com/post/45574394251) - 동영상
 - [텔레그램으로 서버 모니터링하기](http://truefeel.tistory.com/224)
 - [[node.js] cluster를 이용한 멀티코어(multi-core) 사용](http://blog.redjini.com/257)
+- [Data Structure 동영상 강좌](https://www.youtube.com/watch?v=QMV45tHCYNI&feature=youtu.be&list=PL4BBB74C7D2A1049C) - Berkeley
 
 
 ## ETC(temp)
