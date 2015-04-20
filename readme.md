@@ -76,17 +76,25 @@
 - [Android Niceties](http://androidniceties.tumblr.com/) - Andorid App UI 디자인
 - [Troy](http://troy.labs.daum.net/) - 반응형 웹 개발시 다양한 디바이스 테스트
 - [tradukka](http://tradukka.com/unit/speed/meter-second?hl=ko) - 단위, 속도 각 측정 속도 변환
+- [PASTEBIN](http://pastebin.com/) - 소스공유
+- [codepad](http://codepad.org/) - 소스공유
+- [GitHubGist](https://gist.github.com/) - 소스공유
+- [ideone](http://ideone.com/) - 소스공유
+- [dpaste](http://dpaste.com/) - 소스공유
+- [소스공유 사이트 모음](http://joel.franusic.com/Online-REPs-and-REPLs/)
 
 
 ## MOOC, Study ...
 
 > MOOCs(Massive Open Online Courses, MOOCs): 미국에서 시작된 대규모 온라인 공개 강좌
 
-- [edx](https://www.edx.org/)
-- [coursera](https://www.coursera.org/)
-- [udacity](https://www.udacity.com/) - 컴퓨터공학 관련 강좌 다수
+- [MOOC 관련 기사](http://biz.chosun.com/site/data/html_dir/2015/01/07/2015010701402.html) - ChosunBiz
 - [골라 배우자, 전세계 온라인 공개 강좌 45곳](http://www.bloter.net/archives/225814) - 블로터 기사
-- [Codecademy](http://www.codecademy.com/) - 프로그래밍 학습 온라인 플랫폼 ^opid/4^
+- [edx](https://www.edx.org/) - 미국 MOOC
+- [coursera](https://www.coursera.org/) - 미국 MOOC
+- [udacity](https://www.udacity.com/) - 컴퓨터공학 관련 강좌 다수
+- [FutureLearn](http://www.futurelearn.com) - 유럽 MOOC
+- [Codecademy](http://www.codecademy.com/) - 프로그래밍 학습 온라인 플랫폼 <sub>opid/4</sub>
 - [생활코딩](http://opentutorials.org/course/1) - 프로그래밍 학습(web, html/css, js, jquery, php, mysql, linux, java, android, ...)
 - [코드닷오아르지](http://code.org/) - 프로그래밍 연습
 - [runnable](http://runnable.com/) - 코드 검색, 테스트 사이트
@@ -190,6 +198,8 @@
 - [JAMA](http://math.nist.gov/javanumerics/jama/) - Java Matrix Package
 - [프로젝트를 exe 실행파일로 만들기](http://forum.falinux.com/zbxe/index.php?document_srl=555614&mid=lecture_tip)
 - [자바의신 저자 블로그](http://www.tuning-java.com/)
+- [Log4j](http://logging.apache.org/log4j/2.x/) - 로그 라이브러리
+- [LOGBack](http://logback.qos.ch/) - 로그 라이브러리
 
 
 ## Android
@@ -216,6 +226,8 @@
 	- [Haroopad](http://pad.haroopress.com/)
 	- [MarkdownPad](http://markdownpad.com/)
 - [gitlab](http://gitlab.org/) - 서비스형 git 관리도구
+- [Git 브랜치 배우기](http://learnbranch.urigit.com/)
+- [팀프로젝트 협업툴](http://www.slideshare.net/soymilkvegemil/140109-43340824)
 
 
 ## 정규표현식
@@ -225,6 +237,11 @@
 - [txt2re](http://txt2re.com/index.php3) - 정규표현식 패턴화 추천
 - [RegExpTool](http://www.gethifi.com/tools/regex)
 - [Rubular](http://www.rubular.com/) - 정규표현식 테스트
+
+
+## IoT, RaspberryPi, ...
+
+- [MagPi](http://magpi.techjeeper.com/) - 라즈베리파이 프로젝트 매거진
 
 
 ## 읽어 볼만한 포스팅, 기사
