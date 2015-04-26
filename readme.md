@@ -150,6 +150,8 @@
 - [dygraphs](http://dygraphs.com/index.html) - JS 차트 라이브러리
 - [DATEDRIOOER](http://felicegattuso.com/projects/datedropper/) - JQuery 데이트 플러그인
 - [RIMELINER.JS](https://www.technotarek.com/timeliner/) - JS 타임라인 라이브러리
+- [mapbuildr](https://mapbuildr.com/) - 구글 맵 빌더
+- [Layzr.js](http://callmecavs.github.io/layzr.js/) - Lazy loading JS  라이브러리
 - [Colorbox](http://www.jacklmoore.com/colorbox/) - JQuery 라이트박스
 - [JQuery Timeliner](http://www.csslab.cl/2011/08/18/jquery-timelinr/) - JQuery 타임라인
 - [zeroclipboard](https://github.com/zeroclipboard/zeroclipboard/blob/master/docs/instructions.md) - javascript copy to clipboard.
@@ -185,6 +187,7 @@
 - [The Django Book](http://www.djangobook.com/en/2.0/index.html)
 - [Joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Python/DJango/Tutorial01) - Django 튜토리얼
 - [자이썬(Jytion)완벽 안내서](http://jythonbook-ko.readthedocs.org/en/latest/index.html)
+- [A Byte of Python](http://byteofpython-korean.sourceforge.net/byte_of_python.html) - 무료 제공 파이썬 프로그래밍 교재
 - [파이썬을 배우는 최고의 방법](http://nolboo.github.io/blog/2014/08/10/the-best-way-to-learn-python/) - 블로그 포스팅
 - [Converting BeautifulSoup 4 for Python 3](http://annelagang.blogspot.kr/2012/11/beautifulsoup-4-for-python-3x.html)
 - [Python + BeautifulSoup을 이용해서 랭킹 JSON으로 만들기](https://www.acmicpc.net/tutorial/view/4)
@@ -206,6 +209,11 @@
 ## Android
 
 - [Android Asynchronous Http Client](http://loopj.com/android-async-http/) - 콜백기반 Http 클라이언트 라이브러리
+
+
+## PHP
+
+- [Larabel](http://www.laravel.com/) - PHP 프레임워크
 
 
 ## 버전관리, Git
