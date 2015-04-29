@@ -49,6 +49,7 @@
 - [slideshare](www.slideshare.net) - PPT 공유 사이트
 - [Made in 양선배](ynr007.blog.me)(블로그) - PPT 강의, 자료
 - [EnvatoMarket](market.envato.com) - PPT 자료(유료)
+- [1시간안에 파워포인트로 인포그래픽을.. [PPT 템플릿트 10종 + 아이콘]](http://dsconsulting.kr/2015/04/25/1%EC%8B%9C%EA%B0%84%EC%95%88%EC%97%90-%ED%8C%8C%EC%9B%8C%ED%8F%AC%EC%9D%B8%ED%8A%B8%EB%A1%9C-%EC%9D%B8%ED%8F%AC%EA%B7%B8%EB%9E%98%ED%94%BD%EC%9D%84-ppt-%ED%85%9C%ED%94%8C%EB%A0%88%EC%9D%B4%ED%8A%B8/)
 
 
 ## Tools, Web App ...
@@ -155,6 +156,8 @@
 - [Colorbox](http://www.jacklmoore.com/colorbox/) - JQuery 라이트박스
 - [JQuery Timeliner](http://www.csslab.cl/2011/08/18/jquery-timelinr/) - JQuery 타임라인
 - [zeroclipboard](https://github.com/zeroclipboard/zeroclipboard/blob/master/docs/instructions.md) - javascript copy to clipboard.
+- [JQuery Content Slider](http://bxslider.com/) - 반응형 jQuery 슬라이더
+- [OWL Carousel](http://owlgraphic.com/owlcarousel/) - 반응형 carousel slider
 
 
 ## UI(User Interface), CSS, ...
@@ -171,6 +174,8 @@
 - [Pure](http://purecss.io/)
 - [UIkit](http://getuikit.com/)
 - [IVORY](http://www.weice.in/ivory/)
+- [Muppin](http://www.richbray.me/muffin/) - 프론트앤드 웹 템플릿
+- **[shipped](http://richbray.me/shipped/)** - 각종 디자인, 자바스크립트, API 모아놓은 사이트
 - [Ratchet](http://goratchet.com/) - Build mobile apps with simple HTML‚ CSS‚ and JS components.
 - [Topcoat](http://topcoat.io/) - CSS for clean and fast web apps.
 - [ionic](http://ionicframework.com/) - developing hybrid mobile apps with HTML5.
@@ -179,6 +184,9 @@
 - [jQWidgets](http://www.jqwidgets.com/) - JQuery and HTML5 UI framework
 - [flexible.gs](http://flexible.gs/) - 그리드 시스템
 - [NavNav](http://navnav.co/) - 각종 네비게이션 예제
+- [animatable](http://leaverou.github.io/animatable/) - css의 다양한 애니메이션들
+- [CSS Corners](http://csscorners.com/) - 모서리 둥글게 만들기
+- [cubic-bezier](http://cubic-bezier.com/#.17,.67,.83,.67) - 베지어 곡선 그리기
 
 
 ## Python, Django, ...
@@ -230,8 +238,10 @@
 	- [GitHub Pages](https://pages.github.com/) - 깃허브 페이지만들기
 	- [github.io 구축](https://gist.github.com/re4lfl0w/fadc6bee495c63b4f893) - re4lfl0w님 작성 글
 	- [jekyllrb](http://jekyllrb.com/) - github.io로 블로그만들기
+	- [jekyllrb 한글](http://jekyllrb-ko.github.io/)
 	- [jekyllbootstrap](http://jekyllbootstrap.com/) - github.io로 블로그만들기
 	- [jekyllrb로 블로그 설치방법](http://ilmol.com/2015/01/%EC%9B%8C%EB%93%9C%ED%94%84%EB%A0%88%EC%8A%A4%EC%97%90%EC%84%9C%20Jekyll%EB%A1%9C%20%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98.html#fn7) - 블로그 일몰
+	- [지킬로 깃허브에 무료 블로그 만들기](https://nolboo.github.io/blog/2013/10/15/free-blog-with-github-jekyll/)
 - Markdown 에디터 프로그램
 	- [Haroopad](http://pad.haroopress.com/)
 	- [MarkdownPad](http://markdownpad.com/)
