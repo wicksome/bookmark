@@ -197,6 +197,7 @@
 - [Loaders.css](http://connoratherton.com/loaders) - 로딩 애니메이션 CSS
 - [SVG Drawing Animation](http://tympanus.net/codrops/2013/12/30/svg-drawing-animation/) - SVG 애니메이션
 - [Creative Button Styles](http://tympanus.net/codrops/2013/06/13/creative-button-styles/) - 애니메이션 버튼
+- [html5up](http://html5up.net/) - HTML5 웹 템플릿
 
 
 ## Python, Django, ...
@@ -292,6 +293,7 @@
 - [[node.js] cluster를 이용한 멀티코어(multi-core) 사용](http://blog.redjini.com/257)
 - [Data Structure 동영상 강좌](https://www.youtube.com/watch?v=QMV45tHCYNI&feature=youtu.be&list=PL4BBB74C7D2A1049C) - Berkeley
 - [elementary OS Freya stable 소개](http://blog.naver.com/bagjunggyu/220328728464) - 블로그 포스팅, 설치 및 소개
+- [sublime-text2 설치 및 셋팅](http://superjang.com/archives/1773)
 
 
 ## ETC(temp)
