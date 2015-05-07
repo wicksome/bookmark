@@ -3,7 +3,7 @@
 > 유용한 사이트들을 모아놓은 페이지로, (나름) 카테고리별로 수집하였다. 추후에 데이터화하여 따로 웹페이지를 만들어볼 생각으로 계속 수집중에 있다.
 
 1. 자료 검색
-2. 유틸, 웹앱, 도구
+2. 웹 유틸, 웹앱, 도구
 3. MOOC, 학습
 4. 알고리즘, 문제풀이
 5. 자바스크립트
@@ -13,6 +13,7 @@
 9. 안드로이드
 10. 버전관리
 11. 정규표현식
+12. 유틸리티
 
 
 ## 각종 자료 검색 및 다운로드
@@ -52,7 +53,7 @@
 - [1시간안에 파워포인트로 인포그래픽을.. [PPT 템플릿트 10종 + 아이콘]](http://dsconsulting.kr/2015/04/25/1%EC%8B%9C%EA%B0%84%EC%95%88%EC%97%90-%ED%8C%8C%EC%9B%8C%ED%8F%AC%EC%9D%B8%ED%8A%B8%EB%A1%9C-%EC%9D%B8%ED%8F%AC%EA%B7%B8%EB%9E%98%ED%94%BD%EC%9D%84-ppt-%ED%85%9C%ED%94%8C%EB%A0%88%EC%9D%B4%ED%8A%B8/)
 
 
-## Tools, Web App ...
+## Web App, Tools ...
 
 - [draw.io](https://www.draw.io/) - 웹 다이어그램 작성
 - [gliffy](http://www.gliffy.com/) - 웹 다이어그램 작성
@@ -113,7 +114,7 @@
 - [JS: Interview Algorithm](http://www.thatjsdude.com/interview/js1.html) - 자바스크립트 알고리즘
 
 
-## Online judge, Algorithm ... 
+## Online judge, Algorithm ...
 
 > Online judge: 프로그래밍 대회에서 프로그램들을 시험할 목적으로 만들어진 온라인 시스템으로 대회 연습용으로 사용되기도 한다.
 
@@ -160,6 +161,8 @@
 - [zeroclipboard](https://github.com/zeroclipboard/zeroclipboard/blob/master/docs/instructions.md) - javascript copy to clipboard.
 - [JQuery Content Slider](http://bxslider.com/) - 반응형 jQuery 슬라이더
 - [OWL Carousel](http://owlgraphic.com/owlcarousel/) - 반응형 carousel slider
+- [jPlayer](http://jplayer.org/) - The jQuery HTML5 Audio / Video Library
+- [HTML5 Video Player Comparison](http://praegnanz.de/html5video/) - HTML5 비디오 플레이어 비교
 
 
 ## UI(User Interface), CSS, ...
@@ -189,6 +192,11 @@
 - [animatable](http://leaverou.github.io/animatable/) - css의 다양한 애니메이션들
 - [CSS Corners](http://csscorners.com/) - 모서리 둥글게 만들기
 - [cubic-bezier](http://cubic-bezier.com/#.17,.67,.83,.67) - 베지어 곡선 그리기
+- [Spring Python documentation](http://docs.spring.io/spring-python/1.2.x/sphinx/html/index.html)
+- [CSS Pricing Tables](http://codyhouse.co/gem/pricing-tables/) - 가격책정 테이블(반응형)
+- [Loaders.css](http://connoratherton.com/loaders) - 로딩 애니메이션 CSS
+- [SVG Drawing Animation](http://tympanus.net/codrops/2013/12/30/svg-drawing-animation/) - SVG 애니메이션
+- [Creative Button Styles](http://tympanus.net/codrops/2013/06/13/creative-button-styles/) - 애니메이션 버튼
 
 
 ## Python, Django, ...
@@ -283,6 +291,7 @@
 - [텔레그램으로 서버 모니터링하기](http://truefeel.tistory.com/224)
 - [[node.js] cluster를 이용한 멀티코어(multi-core) 사용](http://blog.redjini.com/257)
 - [Data Structure 동영상 강좌](https://www.youtube.com/watch?v=QMV45tHCYNI&feature=youtu.be&list=PL4BBB74C7D2A1049C) - Berkeley
+- [elementary OS Freya stable 소개](http://blog.naver.com/bagjunggyu/220328728464) - 블로그 포스팅, 설치 및 소개
 
 
 ## ETC(temp)
@@ -291,6 +300,10 @@
 	- [link](http://jang8584.tistory.com/entry/Database-%EB%84%A4%EC%9D%B4%EB%B0%8D-%EB%A3%B0Naming-rule)
 	- [link](http://www.sqler.com/407933)
 
+
+## 유틸리티
+
+- [sqliteStudio](http://sqlitestudio.pl/)
 
 
 ## note
