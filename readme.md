@@ -47,9 +47,9 @@
 - [2014년 TOP 100 무료 폰트모음](http://www.fbml.co.kr/2014/03/28/2014-top-100-free-font/) - 블로그 포스팅
 - [vimeo](https://vimeo.com/) - 비디오 자료
 - [SmileTemplates](http://www.smiletemplates.com/) - PPT 템플릿
-- [slideshare](www.slideshare.net) - PPT 공유 사이트
-- [Made in 양선배](ynr007.blog.me)(블로그) - PPT 강의, 자료
-- [EnvatoMarket](market.envato.com) - PPT 자료(유료)
+- [slideshare](http://www.slideshare.net) - PPT 공유 사이트
+- [Made in 양선배](http://ynr007.blog.me)(블로그) - PPT 강의, 자료
+- [EnvatoMarket](http://market.envato.com) - PPT 자료(유료)
 - [1시간안에 파워포인트로 인포그래픽을.. [PPT 템플릿트 10종 + 아이콘]](http://dsconsulting.kr/2015/04/25/1%EC%8B%9C%EA%B0%84%EC%95%88%EC%97%90-%ED%8C%8C%EC%9B%8C%ED%8F%AC%EC%9D%B8%ED%8A%B8%EB%A1%9C-%EC%9D%B8%ED%8F%AC%EA%B7%B8%EB%9E%98%ED%94%BD%EC%9D%84-ppt-%ED%85%9C%ED%94%8C%EB%A0%88%EC%9D%B4%ED%8A%B8/)
 
 
