@@ -24,17 +24,38 @@
 - [앱템플릿](http://pnet.kr/apps) - 스마트폰 개발자와 디자이너를 위한 스크린 패턴 딕셔너리
 - [Printerest](www.pinterest.com) - 각종 프로젝트, 자료, 관심사 아이디어 공유
 - [plxabay](http://pixabay.com/) - 이미지 저장소(한글지원)
-- [morgueFile](http://www.morguefile.com/) - 이미지
-- [unsplash](http://unsplash.com) - 이미지
-- [getrefe](http://getrefe.tumblr.com/) - 이미지
-- [littlevisuals](http://littlevisuals.co/) - 이미지
-- [gratisography](http://www.gratisography.com/) - 이미지
+- [MorgueFile](http://www.morguefile.com/) - FREE Stock Photos
+- [unsplash](http://unsplash.com) - FREE Stock Photos
+- [Getrefe](http://getrefe.tumblr.com/) - FREE Stock Photos
+- [Picjumbo](https://picjumbo.com/) - FREE Stock Photos
+- [Little Visuals](http://littlevisuals.co/) - FREE Stock Photos
+- [Gratisography](http://www.gratisography.com/) - FREE Stock Photos
+- [Splitshire](http://www.splitshire.com/) - FREE Stock Photos
+- [New Old Stock](http://nos.twnsnd.co/) - FREE Stock Photos
+- [function](http://wefunction.com/category/free-photos/) - FREE Stock Photos
+- [JAY MANTRI](http://jaymantri.com/) - FREE Stock Photos
+- [LIFE OF PIX](http://www.lifeofpix.com/) - FREE Stock Photos
+- [PICOGRAPHY](http://picography.co/) - FREE Stock Photos
+- [FOODIE'S FEED](http://foodiesfeed.com/) - FREE Stock Photos
+- [DesignersPics](http://www.designerspics.com/) - FREE Stock Photos
+- [Death to the Stock Photo](http://deathtothestockphoto.com/) - FREE Stock Photos
+- [Sharing beautiful travel moments](http://travelcoffeebook.com/) - FREE Stock Photos
+- [PEXELS](http://www.pexels.com/) - FREE Stock Photos
+- [public domain archive](http://publicdomainarchive.com/) - FREE Stock Photos
+- [splashbase](http://www.splashbase.co/) - FREE Stock Photos
+- [StockSnap.io](https://stocksnap.io/) - FREE Stock Photos
+- [Lock & Stock Photos](http://lockandstockphotos.com/) - FREE Stock Photos
+- [SNAPWIRE SNAPS](http://snapwiresnaps.tumblr.com/) - FREE Stock Photos
 - [imagebase](http://www.imagebase.net/) - 이미지
 - [FreePhotosBank](http://freephotosbank.com/) - 이미지
+- [Magdeleine](http://magdeleine.co/) - 저작자표시(CC BY 4.0) 적용
+- [raumrot](http://www.raumrot.com/) - 저작자표시(CC BY 2.0) 적용
+- [Startup Stock Photos](http://startupstockphotos.com/) - 저작자표시(CC BY 4.0) 적용
 - [stockvault](http://www.stockvault.net/) - 이미지(비영리 목적)
-- [IM Free](http://www.imcreator.com/free?usource=lc) - 이미지
+- [IM Free](http://www.imcreator.com/free) - 저작자표시(CC BY 2.0) 적용
 - [무료이미지net](http://www.allfreeimages.net/) - 이미지
-- [publicDomainVectors](http://publicdomainvectors.org/) - 공개 벡터 이미지
+- [Superfamous studios](http://superfamous.com/) - 저작자표시(CC BY 3.0) 적용
+- [public domain vectors](http://publicdomainvectors.org/) - 공개 벡터 이미지
 - [iconfinder](https://www.iconfinder.com/) - 아이콘
 - [iconmonstr](http://iconmonstr.com/) - 아이콘
 - [IconArchive](http://www.iconarchive.com/) - 아이콘
@@ -43,6 +64,7 @@
 - [flaticon](http://www.flaticon.com/) - 픽토그램
 - [Dashel](http://www.smashingmagazine.com/2015/01/05/freebie-dashel-icon-set-svg-psd-png/) - 절제된 컬러, 명확한 아웃라인이 세련된 무료 벡터 아이콘 세트
 - [Dribbble](https://dribbble.com/) - 각종 디자인
+- [네이버 무료폰트](http://software.naver.com/software/fontList.nhn?categoryId=I0000000) - 한글 무료폰트
 - [dafont](http://www.dafont.com/) - 영문 폰트
 - [2014년 TOP 100 무료 폰트모음](http://www.fbml.co.kr/2014/03/28/2014-top-100-free-font/) - 블로그 포스팅
 - [vimeo](https://vimeo.com/) - 비디오 자료
@@ -86,6 +108,8 @@
 - [소스공유 사이트 모음](http://joel.franusic.com/Online-REPs-and-REPLs/)
 - [eggtimer](http://e.ggtimer.com/50minutes) - 웹 타이머
 - [모니터 무결점 테스트](http://www.monitor.co.kr/)
+- [MakeYourOwnRingtone](http://makeownringtone.com/) - 웹 mp3파일 구간자르기
+- [ezgit](http://ezgif.com/) - gif 만들기
 
 
 ## MOOC, Study ...
@@ -306,6 +330,7 @@
 ## 유틸리티
 
 - [sqliteStudio](http://sqlitestudio.pl/)
+- [winsplit revolution](http://www.winsplit-revolution.com/) - 모니터분할
 
 
 ## note
