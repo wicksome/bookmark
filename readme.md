@@ -136,6 +136,8 @@
 - [Repeat After Us](http://repeatafterus.com/genre.php?g=childrensstories&s=a) - 영어 동화, Fable Aesop 이솝 우화
 - [AudioEnglish](http://www.audioenglish.net/) - 영어회화, Dialogues 섹션 추천
 - [JS: Interview Algorithm](http://www.thatjsdude.com/interview/js1.html) - 자바스크립트 알고리즘
+- [Programming Language Network](http://fatiherikli.github.io/programming-language-network/) - 프로그래밍 언어 연관성을 시각화
+- [Programming Languages Influence Network 2014](http://exploringdata.github.io/vis/programming-languages-influence-network-2014/) - 2014년 기준 프로그래밍 언어 연관성을 시각화
 
 
 ## Online judge, Algorithm ...
