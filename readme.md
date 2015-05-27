@@ -236,11 +236,7 @@ Pete R. 개인사이트로 각종 js 플러그인
 - [Creative Button Styles](http://tympanus.net/codrops/2013/06/13/creative-button-styles/) - 애니메이션 버튼
 - [html5up](http://html5up.net/) - HTML5 웹 템플릿
 - [Material Design Blog](http://materialdesignblog.com/themes-templates/) - Material Design Themes & Templates
-<<<<<<< HEAD
-- [Hero Slider](http://codyhouse.co/gem/hero-slider/) - 슬라이스쇼
-=======
 - [jquer.in](http://jquer.in/tag/layout/) - Masonry Alternative
->>>>>>> origin/master
 
 
 ## Python, Django, ...
