@@ -71,8 +71,12 @@
 - [SmileTemplates](http://www.smiletemplates.com/) - PPT 템플릿
 - [slideshare](http://www.slideshare.net) - PPT 공유 사이트
 - [Made in 양선배](http://ynr007.blog.me)(블로그) - PPT 강의, 자료
+- [presentation magazine](http://www.presentationmagazine.com/free_powerpoint_template.htm) - PPT 템플릿 제공
 - [EnvatoMarket](http://market.envato.com) - PPT 자료(유료)
 - [1시간안에 파워포인트로 인포그래픽을.. [PPT 템플릿트 10종 + 아이콘]](http://dsconsulting.kr/2015/04/25/1%EC%8B%9C%EA%B0%84%EC%95%88%EC%97%90-%ED%8C%8C%EC%9B%8C%ED%8F%AC%EC%9D%B8%ED%8A%B8%EB%A1%9C-%EC%9D%B8%ED%8F%AC%EA%B7%B8%EB%9E%98%ED%94%BD%EC%9D%84-ppt-%ED%85%9C%ED%94%8C%EB%A0%88%EC%9D%B4%ED%8A%B8/)
+- [RISS](http://www.riss.kr/index.do) - 한국교육학술정보원에서 운영하며, 학위 논문, 강의 자료 제공
+- [한국 갤럽](http://www.gallup.co.kr/) - 조사 전문 회사로, 생활과 관련된 통계자료 제공.
+- [KOSIS](www.kosis.kr) - 국가통계포털
 
 
 ## Web App, Tools ...
@@ -110,6 +114,8 @@
 - [모니터 무결점 테스트](http://www.monitor.co.kr/)
 - [MakeYourOwnRingtone](http://makeownringtone.com/) - 웹 mp3파일 구간자르기
 - [ezgit](http://ezgif.com/) - gif 만들기
+- [Detect Mobile Browsers](http://detectmobilebrowsers.com/) - 모바일 브라우저 환경 확인
+- [resizr](http://resizr.co/) - 반응형웹 테스트 사이트
 
 
 ## MOOC, Study ...
@@ -191,6 +197,9 @@
 - [HTML5 Video Player Comparison](http://praegnanz.de/html5video/) - HTML5 비디오 플레이어 비교
 - [createJS](http://createjs.com/Home) - JS 라이브러리(canvas, tween, sound, preload, ...)
 - [JS1K](http://js1k.com/2015-hypetrain/demos) - JavaScript 작품들
+- [One Page Scroll](https://github.com/peachananr/purejs-onepage-scroll) - 페이지 단위로 스크롤 내리기
+- [thepetedesign](http://www.thepetedesign.com/#plugins) - 
+Pete R. 개인사이트로 각종 js 플러그인
 
 
 ## UI(User Interface), CSS, ...
@@ -227,7 +236,11 @@
 - [Creative Button Styles](http://tympanus.net/codrops/2013/06/13/creative-button-styles/) - 애니메이션 버튼
 - [html5up](http://html5up.net/) - HTML5 웹 템플릿
 - [Material Design Blog](http://materialdesignblog.com/themes-templates/) - Material Design Themes & Templates
+<<<<<<< HEAD
+- [Hero Slider](http://codyhouse.co/gem/hero-slider/) - 슬라이스쇼
+=======
 - [jquer.in](http://jquer.in/tag/layout/) - Masonry Alternative
+>>>>>>> origin/master
 
 
 ## Python, Django, ...
@@ -289,6 +302,8 @@
 - [gitlab](http://gitlab.org/) - 서비스형 git 관리도구
 - [Git 브랜치 배우기](http://learnbranch.urigit.com/)
 - [팀프로젝트 협업툴](http://www.slideshare.net/soymilkvegemil/140109-43340824)
+- [버전 관리 시스템 유랑기, 그리고 Git 적응기](https://gist.github.com/benelog/2922437)
+- [좋은 커밋 메시지 작성하기](http://haruair.com/blog/2738)
 
 
 ## 정규표현식
@@ -308,9 +323,7 @@
 ## 읽어 볼만한 포스팅, 기사
 
 - [[번역]2014년 가장 인기있는 5가지 프론트엔드 프레임워크 비교](http://witinweb.tumblr.com/post/105246674402/2014-5)
-- [버전 관리 시스템 유랑기, 그리고 Git 적응기](https://gist.github.com/benelog/2922437)
 - [자바와 웹 어플리케이션 서버 성능 튜닝](http://www.openseed.co.kr/54)
-- [좋은 커밋 메시지 작성하기](http://haruair.com/blog/2738)
 - [논문 쓰는 방법](http://blog.naver.com/ccm9922/220322649076)
 - [코딩 입문자, 어떤 언어부터 배워야 할까](http://www.bloter.net/archives/196684)
 - [[IT인물열전]자바의 아버지, 제임스 고슬링](http://it.donga.com/20869/)
@@ -324,6 +337,7 @@
 - [Data Structure 동영상 강좌](https://www.youtube.com/watch?v=QMV45tHCYNI&feature=youtu.be&list=PL4BBB74C7D2A1049C) - Berkeley
 - [elementary OS Freya stable 소개](http://blog.naver.com/bagjunggyu/220328728464) - 블로그 포스팅, 설치 및 소개
 - [sublime-text2 설치 및 셋팅](http://superjang.com/archives/1773)
+- [서브라임텍스트 단축키](https://scotch.io/bar-talk/sublime-text-keyboard-shortcuts)
 
 
 ## ETC(temp)
