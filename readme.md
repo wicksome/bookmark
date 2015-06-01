@@ -109,7 +109,15 @@
 - [eggtimer](http://e.ggtimer.com/50minutes) - 웹 타이머
 - [모니터 무결점 테스트](http://www.monitor.co.kr/)
 - [MakeYourOwnRingtone](http://makeownringtone.com/) - 웹 mp3파일 구간자르기
+<<<<<<< HEAD
 - [ezgit](http://ezgif.com/) - gif 만들기
+=======
+- [ezgif](http://ezgif.com/) - gif 만들기
+- [imgflip](https://imgflip.com/gifgenerator) - video to GIF
+- [zamzar](http://www.zamzar.com/) - git 만들기
+- [Detect Mobile Browsers](http://detectmobilebrowsers.com/) - 모바일 브라우저 환경 확인
+- [resizr](http://resizr.co/) - 반응형웹 테스트 사이트
+>>>>>>> origin/master
 
 
 ## MOOC, Study ...
