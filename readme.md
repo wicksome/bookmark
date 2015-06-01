@@ -130,6 +130,7 @@
 - [FutureLearn](http://www.futurelearn.com) - 유럽 MOOC
 - [Codecademy](http://www.codecademy.com/) - 프로그래밍 학습 온라인 플랫폼 <sub>opid/4</sub>
 - [생활코딩](http://opentutorials.org/course/1) - 프로그래밍 학습(web, html/css, js, jquery, php, mysql, linux, java, android, ...)
+- [코드라이언](http://codelion.net/) - 웹 9주 개발하기
 - [코드닷오아르지](http://code.org/) - 프로그래밍 연습
 - [runnable](http://runnable.com/) - 코드 검색, 테스트 사이트
 - [Hackermeter](http://www.hackermeter.com/) - 프로그래밍 실력 테스트
@@ -247,6 +248,11 @@
 - [파이썬을 배우는 최고의 방법](http://nolboo.github.io/blog/2014/08/10/the-best-way-to-learn-python/) - 블로그 포스팅
 - [Converting BeautifulSoup 4 for Python 3](http://annelagang.blogspot.kr/2012/11/beautifulsoup-4-for-python-3x.html)
 - [Python + BeautifulSoup을 이용해서 랭킹 JSON으로 만들기](https://www.acmicpc.net/tutorial/view/4)
+
+
+## Rudy on Rails
+
+- [초보자를 위한 레일스 가이드북 v1.0.6](http://rorlab.gitbooks.io/railsguidebook/content/index.html)
 
 
 ## JAVA, JSP, Spring, ...
