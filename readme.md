@@ -140,6 +140,8 @@
 - [점프 투 파이썬](https://wikidocs.net/book/1) - 파이썬 공부
 - [typing.io](https://typing.io/lessons) - 소스 코드로 타자 연습 사이트
 - [도타비 문제은행](http://gunsys.com/cbt_list/pil_gisa.htm) - 국가기술자격 필기 문제은행
+- [Gisafirst](http://gisafirst.com/board/n1/list.php?tq=1401345095&word=%BD%C7%B1%E2) - 기사 자격증 문제은행
+- [Gisapass](http://www.gisapass.com/bank/list.asp?bkVIdx=3) - 기사 자격증 문제은행
 - [VOA News Special English](http://www.voanews.com/specialenglish/index.cfm ) - 뉴스사이트, 미국영어 학습, mp 제공
 - [Repeat After Us](http://repeatafterus.com/genre.php?g=childrensstories&s=a) - 영어 동화, Fable Aesop 이솝 우화
 - [AudioEnglish](http://www.audioenglish.net/) - 영어회화, Dialogues 섹션 추천
