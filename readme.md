@@ -345,6 +345,7 @@
 - DB Naming rule 관련
 	- [link](http://jang8584.tistory.com/entry/Database-%EB%84%A4%EC%9D%B4%EB%B0%8D-%EB%A3%B0Naming-rule)
 	- [link](http://www.sqler.com/407933)
+- [vim emmet 설치](http://mattn.github.io/emmet-vim/)
 
 
 ## 유틸리티
