@@ -206,7 +206,8 @@
 
 > 프론트앤드에서 UI, CSS 등 디자인 관련 사이트 모음. (자바스크립트와 분류하기가 에메모호하다..)
 
-- [Bootstrap](http://getbootstrap.com/)
+- **Bootstrap 관련**
+	- [Bootstrap](http://getbootstrap.com/) - 공식 홈페이지
 	- [Bootstrap form builder](http://bootsnipp.com/forms?version=3)
 	- [Bootswatch](http://bootswatch.com/) - 무료 부트스트랩 테마, 템플릿
 	- [bootstrapzero](http://www.bootstrapzero.com/) - 무료 부트스트랩 테마, 템플릿
@@ -242,11 +243,14 @@
 ## Python, Django, ...
 
 - [pycharm](https://www.jetbrains.com/pycharm/) - python IDE
-- [The Django Book](http://www.djangobook.com/en/2.0/index.html)
-- [Joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Python/DJango/Tutorial01) - Django 튜토리얼
-- [자이썬(Jytion)완벽 안내서](http://jythonbook-ko.readthedocs.org/en/latest/index.html)
 - [A Byte of Python](http://byteofpython-korean.sourceforge.net/byte_of_python.html) - 무료 제공 파이썬 프로그래밍 교재
 - [파이썬을 배우는 최고의 방법](http://nolboo.github.io/blog/2014/08/10/the-best-way-to-learn-python/) - 블로그 포스팅
+- **Django 관련**
+	- [The Django Book](http://www.djangobook.com/en/2.0/index.html)
+	- [날로 먹는 Django 웹프레임워크 강좌](http://blog.hannal.com/category/start-with-django-webframework/) - Kay on the rails님 블로그
+	- [Joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Python/DJango/Tutorial01) - Django 튜토리얼
+	- [Learn Django: Create a Wiki in 20 minutes](http://showmedo.com/videotutorials/video?name=1100000&fromSeriesID=110) - Django를 사용하여 20분만에 위키 만들기
+- [자이썬(Jytion)완벽 안내서](http://jythonbook-ko.readthedocs.org/en/latest/index.html)
 - [Converting BeautifulSoup 4 for Python 3](http://annelagang.blogspot.kr/2012/11/beautifulsoup-4-for-python-3x.html)
 - [Python + BeautifulSoup을 이용해서 랭킹 JSON으로 만들기](https://www.acmicpc.net/tutorial/view/4)
 
