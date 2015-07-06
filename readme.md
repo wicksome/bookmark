@@ -184,6 +184,7 @@
 	- [Tutorials](http://backbonetutorials.com/)
 - [underscore.js](http://underscorejs.org/) - Framework
 - [AngularJS](https://angularjs.org/) - Framework
+	- [배우는 방법 & 기본 개념 잡기](http://mobicon.tistory.com/281)
 - [emberjs](http://emberjs.com/) - Framework
 - [knockoutjs](http://knockoutjs.com/) - Framework
 - [dygraphs](http://dygraphs.com/index.html) - JS 차트 라이브러리
@@ -238,6 +239,7 @@
 - [html5up](http://html5up.net/) - HTML5 웹 템플릿
 - [Material Design Blog](http://materialdesignblog.com/themes-templates/) - Material Design Themes & Templates
 - [jquer.in](http://jquer.in/tag/layout/) - Masonry Alternative
+- [progress CSS - best 55](http://www.designrazor.net/55-best-css3-progress-bar-download/)
 
 
 ## Python, Django, ...
