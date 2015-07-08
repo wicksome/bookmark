@@ -179,6 +179,8 @@
 
 > JavaScript, JQuery 에 관련된 라이브러리, 플러그인, 프레임워크, 컴포넌트 등에 관한 사이트 모음
 
+### Framework, Library, Module, ...
+
 - [Backbone.js](http://backbonejs.org/) - 클라이언트 사이드 웹애플리케이션 개발에 MVC패턴 적용을 가능하게 해주는 자바스크립트 프레임워크
 	- [한글 번역본](http://iwidgets.kr/document/backbonejs.html)
 	- [Tutorials](http://backbonetutorials.com/)
@@ -190,7 +192,6 @@
 - [dygraphs](http://dygraphs.com/index.html) - JS 차트 라이브러리
 - [DATEDRIOOER](http://felicegattuso.com/projects/datedropper/) - JQuery 데이트 플러그인
 - [RIMELINER.JS](https://www.technotarek.com/timeliner/) - JS 타임라인 라이브러리
-- [mapbuildr](https://mapbuildr.com/) - 구글 맵 빌더
 - [Layzr.js](http://callmecavs.github.io/layzr.js/) - Lazy loading JS  라이브러리
 - [Colorbox](http://www.jacklmoore.com/colorbox/) - JQuery 라이트박스
 - [JQuery Timeliner](http://www.csslab.cl/2011/08/18/jquery-timelinr/) - JQuery 타임라인
@@ -198,8 +199,17 @@
 - [JQuery Content Slider](http://bxslider.com/) - 반응형 jQuery 슬라이더
 - [OWL Carousel](http://owlgraphic.com/owlcarousel/) - 반응형 carousel slider
 - [jPlayer](http://jplayer.org/) - The jQuery HTML5 Audio / Video Library
-- [HTML5 Video Player Comparison](http://praegnanz.de/html5video/) - HTML5 비디오 플레이어 비교
 - [createJS](http://createjs.com/Home) - JS 라이브러리(canvas, tween, sound, preload, ...)
+
+### Node.js
+
+- [Node.js 이해하기](http://programmingsummaries.tistory.com/328)
+- [[node.js] cluster를 이용한 멀티코어(multi-core) 사용](http://blog.redjini.com/257)
+
+### 기타
+
+- [HTML5 Video Player Comparison](http://praegnanz.de/html5video/) - HTML5 비디오 플레이어 비교
+- [mapbuildr](https://mapbuildr.com/) - 구글 맵 빌더
 - [JS1K](http://js1k.com/2015-hypetrain/demos) - JavaScript 작품들
 
 
@@ -273,6 +283,7 @@
 - [자바의신 저자 블로그](http://www.tuning-java.com/)
 - [Log4j](http://logging.apache.org/log4j/2.x/) - 로그 라이브러리
 - [LOGBack](http://logback.qos.ch/) - 로그 라이브러리
+- [자바와 웹 어플리케이션 서버 성능 튜닝](http://www.openseed.co.kr/54)
 
 
 ## Android
@@ -331,7 +342,6 @@
 
 - [[번역]2014년 가장 인기있는 5가지 프론트엔드 프레임워크 비교](http://witinweb.tumblr.com/post/105246674402/2014-5)
 - [버전 관리 시스템 유랑기, 그리고 Git 적응기](https://gist.github.com/benelog/2922437)
-- [자바와 웹 어플리케이션 서버 성능 튜닝](http://www.openseed.co.kr/54)
 - [좋은 커밋 메시지 작성하기](http://haruair.com/blog/2738)
 - [논문 쓰는 방법](http://blog.naver.com/ccm9922/220322649076)
 - [코딩 입문자, 어떤 언어부터 배워야 할까](http://www.bloter.net/archives/196684)
@@ -342,7 +352,6 @@
 - [개발에 도움이 되는 웹사이트와 도구들](https://www.facebook.com/notes/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/%EA%B0%9C%EB%B0%9C%EC%97%90-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%99%80-%EB%8F%84%EA%B5%AC%EB%93%A4/417702378270304) - 생활코딩 페이스북 그룹 문서
 - [소프트웨어의 본질](http://zxzl.tumblr.com/post/45574394251) - 동영상
 - [텔레그램으로 서버 모니터링하기](http://truefeel.tistory.com/224)
-- [[node.js] cluster를 이용한 멀티코어(multi-core) 사용](http://blog.redjini.com/257)
 - [Data Structure 동영상 강좌](https://www.youtube.com/watch?v=QMV45tHCYNI&feature=youtu.be&list=PL4BBB74C7D2A1049C) - Berkeley
 - [elementary OS Freya stable 소개](http://blog.naver.com/bagjunggyu/220328728464) - 블로그 포스팅, 설치 및 소개
 - [sublime-text2 설치 및 셋팅](http://superjang.com/archives/1773)
