@@ -296,6 +296,29 @@
 - [Larabel](http://www.laravel.com/) - PHP 프레임워크
 
 
+## 애자일 방법론
+
+### Kanban(칸반)
+
+- [[번역]잘 가요 스크럼, 반가워요 칸반](http://pitzcarraldo.github.io/articles/2014/05/08/goodbye-scrum-hello-kanban/)
+- [올바른 애자일 적용 - kanban](https://ko.atlassian.com/landing/agile/kanban) - Atlassian
+
+## Scrum(스크럼)
+
+- [올바른 애자일 적용 - Scrum](https://ko.atlassian.com/landing/agile/scrum#!scrum-team) - Atlassian
+
+
+## 프로젝트 관리
+
+- [Taiga](https://taiga.io/) - 애자일 프로젝트 관리도구
+	- [블로그 소개 사이트](http://programmingsummaries.tistory.com/354)
+- [slack](https://slack.com/) - 기업용 메신저
+- [Vagrant](https://www.vagrantup.com/) - 개발환경 관리
+	- [vagrant로 서버와 동일한 개발환경 꾸미기](http://www.slideshare.net/kthcorp/h3-2012-vagrant)
+	- [vagrant, chef 를 통한 동일 개발환경 구축](http://www.slipp.net/wiki/pages/viewpage.action?pageId=12189742)
+	- [Vagrant를 이용한 가상 환경 구축](http://wiki.opencloudengine.org/pages/viewpage.action?pageId=2852295)
+
+
 ## 버전관리, Git
 
 - [GitHub](https://github.com/)
