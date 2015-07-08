@@ -303,7 +303,7 @@
 - [[번역]잘 가요 스크럼, 반가워요 칸반](http://pitzcarraldo.github.io/articles/2014/05/08/goodbye-scrum-hello-kanban/)
 - [올바른 애자일 적용 - kanban](https://ko.atlassian.com/landing/agile/kanban) - Atlassian
 
-## Scrum(스크럼)
+### Scrum(스크럼)
 
 - [올바른 애자일 적용 - Scrum](https://ko.atlassian.com/landing/agile/scrum#!scrum-team) - Atlassian
 
