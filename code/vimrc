@@ -1,0 +1,98 @@
+
+
+let g:MultipleSearchMaxColors = 8 
+
+hi Search0 ctermbg=blue guibg=blue ctermfg=white guifg=white 
+hi Search1 ctermbg=green guibg=green ctermfg=black guifg=black 
+hi Search2 ctermbg=magenta guibg=magenta ctermfg=white guifg=white 
+hi Search3 ctermbg=cyan guibg=cyan ctermfg=black guifg=black 
+hi Search4 ctermbg=brown guibg=brown ctermfg=white guifg=white 
+hi Search5 ctermbg=gray guibg=gray ctermfg=black guifg=black 
+hi Search6 ctermbg=red guibg=red ctermfg=white guifg=white 
+hi Search7 ctermbg=yellow guibg=yellow ctermfg=black guifg=black 
+
+map <F1> :wq<cr>
+map <F2> :wq<cr>
+map <F3> :w<cr>
+map <F4> :q<cr>
+
+"=========================================================
+"  filetype setting
+"=========================================================
+filetype plugin on
+filetype indent on
+
+"=========================================================
+" C compile
+"=========================================================
+"map <F5> :w!<CR>:!gcc %<CR>:!./a.out<CR>
+"map <F6> :w!<CR>:!g++ %<CR>:!./a.out<CR>
+"au FileType c map <F5> :!gcc -W -Wall -o %< %<CR>
+au FileType c map <F5> :w!<CR>:!gcc % -o %<<CR>
+au FileType c map <F6> :!./%<<CR>
+
+"=========================================================
+" CPP compile
+"=========================================================
+"au FileType cpp map <F5> :!g++ -W -Wall -o %< %<CR>
+au FileType cpp map <F5> :w!<CR>:!g++ -o %< %<CR>
+au FileType cpp map <F6> :!./%<<CR>
+
+"=========================================================
+" JAVA compile
+"=========================================================
+au FileType java map <F5>:w!<CR> :!javac % <CR>
+au FileType java map <F6> :!java %<<CR>
+"map <F9> :w!<CR>:!javac %<CR>:!java %< :oops:
+"au FileType java map <F9> :w!<CR>:!javac % <CR>:!java %<<CR>
+
+"=========================================================
+" Python Mapping
+"=========================================================
+au FileType python map <F5> :!python &<CR>
+au FileType python map <F6> :!python &<CR>
+
+"=========================================================
+" C compile with Network socket func
+"=========================================================
+map <F9> :w! <CR> :!gcc % -o %< -lsocket -lnsl <CR>
+map <F10> :!./%<<CR>
+
+"map <F5> :w!<cr>:!gcc % -o %< -lncurses && ./%< <cr>
+"map <F6> :w!<cr>:!gcc % -o %< && ./%< <cr>
+
+"map <F9> :q!<cr>
+"map <F6> v]}zf
+"map <F7> zo
+
+"=========================================================
+" C Debug
+"=========================================================
+map <F11> :w! <CR> :!gcc % -o %< -ggdb <CR>
+map <F11> :w! <CR> :!gcc % -o %< -ggdb -lsocket -nsl <CR>
+
+"=========================================================
+"=========================================================
+set number	"line number
+set ai
+set tabstop=4   "tab¿ ¿¿
+syntax on	" ¿¿¿¿ ¿¿
+set hlsearch
+set background=dark	" ¿¿¿¿¿
+set ruler	" ¿¿¿ ¿, ¿ ¿¿¿¿
+set title
+set ignorecase	" ¿¿¿ ¿¿¿¿ ¿¿
+set hlsearch	" ¿¿¿ ¿¿
+set cindent	" C¿¿¿¿¿¿ ¿¿ ¿¿¿¿
+set smartindent	" ¿¿¿¿ ¿¿¿¿
+set autoindent	" ¿¿ ¿¿¿¿
+set showmode	" ¿¿ ¿¿¿ ¿¿¿
+set shiftwidth=4  " ¿¿ ¿¿¿¿¿ ¿ ¿¿(sw=4)
+set showmatch   " ¿¿¿ ¿¿¿¿ ¿¿(set sm)
+set history=50		" vi ¿¿¿¿ ¿¿¿¿
+"set visualbell " ¿¿ ¿¿ ¿¿¿ ¿ ¿¿ ¿¿¿
+set showcmd		" display incomplete commands
+set incsearch	" ¿¿¿ ¿¿¿ ¿¿¿ ¿¿
+"colorscheme desert  "  vi ¿¿ ¿¿ ¿¿
+set bs=indent,eol,start	" ¿¿¿¿¿ ¿¿
+

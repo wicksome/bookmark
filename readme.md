@@ -364,7 +364,7 @@
 - [MagPi](http://magpi.techjeeper.com/) - 라즈베리파이 프로젝트 매거진
 
 
-## Linux
+## Linux(Ubuntu, ...)
 
 - [Ubuntu Gnome 14.10 설치후 세팅](http://programmingsummaries.tistory.com/360)
 - [Ubuntu 프롬프트 색 변경](https://wiki.archlinux.org/index.php/Color_Bash_Prompt)
