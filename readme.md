@@ -367,6 +367,7 @@
 ## Linux
 
 - [Ubuntu Gnome 14.10 설치후 세팅](http://programmingsummaries.tistory.com/360)
+- [Ubuntu 프롬프트 색 변경](https://wiki.archlinux.org/index.php/Color_Bash_Prompt)
 
 
 ## 읽어 볼만한 포스팅, 기사
