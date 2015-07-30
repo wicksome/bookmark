@@ -211,6 +211,7 @@
 - [HTML5 Video Player Comparison](http://praegnanz.de/html5video/) - HTML5 비디오 플레이어 비교
 - [mapbuildr](https://mapbuildr.com/) - 구글 맵 빌더
 - [JS1K](http://js1k.com/2015-hypetrain/demos) - JavaScript 작품들
+- [JavaScript 재입문하기](https://developer.mozilla.org/ko/docs/A_re-introduction_to_JavaScript)
 
 
 ## UI(User Interface), CSS, ...
@@ -342,12 +343,14 @@
 	- [지킬로 깃허브에 무료 블로그 만들기](https://nolboo.github.io/blog/2013/10/15/free-blog-with-github-jekyll/)
 	- [Jekyll Themes](http://jekyllthemes.org/) - 지킬 테마
 	- [Sublime Text에서 jekyll 블로그 포스팅 하기](http://hyeonjae.github.io/jekyll/2015/03/05/sublime-text-jekyll-snippet.html)
+	- [Hubpress.io](http://hubpress.io/index.html) - 정적 웹페이지 생성기
 - Markdown 에디터 프로그램
 	- [Haroopad](http://pad.haroopress.com/)
 	- [MarkdownPad](http://markdownpad.com/)
 - [gitlab](http://gitlab.org/) - 서비스형 git 관리도구
 - [Git 브랜치 배우기](http://learnbranch.urigit.com/)
 - [팀프로젝트 협업툴](http://www.slideshare.net/soymilkvegemil/140109-43340824)
+- [git에 command 추가하기](https://www.gerritcodereview.com/)
 
 
 ## 정규표현식
