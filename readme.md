@@ -263,6 +263,7 @@
 	- [날로 먹는 Django 웹프레임워크 강좌](http://blog.hannal.com/category/start-with-django-webframework/) - Kay on the rails님 블로그
 	- [Joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Python/DJango/Tutorial01) - Django 튜토리얼
 	- [Learn Django: Create a Wiki in 20 minutes](http://showmedo.com/videotutorials/video?name=1100000&fromSeriesID=110) - Django를 사용하여 20분만에 위키 만들기
+	- [파이썬, Django와 관련된 국내 블로그](http://raccoonyy.github.io/useful-korean-blog-for-python-and-django/)
 - [자이썬(Jytion)완벽 안내서](http://jythonbook-ko.readthedocs.org/en/latest/index.html)
 - [Converting BeautifulSoup 4 for Python 3](http://annelagang.blogspot.kr/2012/11/beautifulsoup-4-for-python-3x.html)
 - [Python + BeautifulSoup을 이용해서 랭킹 JSON으로 만들기](https://www.acmicpc.net/tutorial/view/4)
