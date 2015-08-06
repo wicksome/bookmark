@@ -136,7 +136,6 @@
 - [Hackermeter](http://www.hackermeter.com/) - 프로그래밍 실력 테스트
 - [유지보수하기 어렵게 코딩하는 방법,Ebook](https://play.google.com/store/books/details?id=HHqqAwAAQBAJ)
 - [JAVA 동영상 강의](http://www.orentec.co.kr/teachlist/JAVA_BASIC_1/teach_sub1.php) - '난 정말 JAVA를 공부한 적이 없다구요' 강의, 오렌지 미디어 제공
-- [점프 투 파이썬](https://wikidocs.net/book/1) - 파이썬 공부
 - [typing.io](https://typing.io/lessons) - 소스 코드로 타자 연습 사이트
 - [도타비 문제은행](http://gunsys.com/cbt_list/pil_gisa.htm) - 국가기술자격 필기 문제은행
 - [Gisafirst](http://gisafirst.com/board/n1/list.php?tq=1401345095&word=%BD%C7%B1%E2) - 기사 자격증 문제은행
@@ -203,6 +202,7 @@
 
 ### Node.js
 
+- [Node.js 배우는 방법](http://mobicon.tistory.com/224)
 - [Node.js 이해하기](http://programmingsummaries.tistory.com/328)
 - [[node.js] cluster를 이용한 멀티코어(multi-core) 사용](http://blog.redjini.com/257)
 
@@ -257,9 +257,11 @@
 
 - [pycharm](https://www.jetbrains.com/pycharm/) - python IDE
 - [A Byte of Python](http://byteofpython-korean.sourceforge.net/byte_of_python.html) - 무료 제공 파이썬 프로그래밍 교재
+- [점프 투 파이썬](https://wikidocs.net/book/1) - 파이썬 공부
 - [파이썬을 배우는 최고의 방법](http://nolboo.github.io/blog/2014/08/10/the-best-way-to-learn-python/) - 블로그 포스팅
 - **Django 관련**
 	- [The Django Book](http://www.djangobook.com/en/2.0/index.html)
+	- [The Django Book 한글](http://django-document-korean.readthedocs.org/en/old_master/)
 	- [날로 먹는 Django 웹프레임워크 강좌](http://blog.hannal.com/category/start-with-django-webframework/) - Kay on the rails님 블로그
 	- [Joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Python/DJango/Tutorial01) - Django 튜토리얼
 	- [Learn Django: Create a Wiki in 20 minutes](http://showmedo.com/videotutorials/video?name=1100000&fromSeriesID=110) - Django를 사용하여 20분만에 위키 만들기
@@ -399,11 +401,13 @@
 	- [link](http://jang8584.tistory.com/entry/Database-%EB%84%A4%EC%9D%B4%EB%B0%8D-%EB%A3%B0Naming-rule)
 	- [link](http://www.sqler.com/407933)
 - [vim emmet 설치](http://mattn.github.io/emmet-vim/)
+- [vim plugin 순위](http://likelink.co.kr/31567)
 
 
 ## 유틸리티
 
 - [sqliteStudio](http://sqlitestudio.pl/)
+- [brackets](http://brackets.io/) - 어도비의 텍스트 에디터
 - [winsplit revolution](http://www.winsplit-revolution.com/) - 모니터분할
 
 
