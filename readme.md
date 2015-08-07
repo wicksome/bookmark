@@ -393,6 +393,7 @@
 - [Data Structure 동영상 강좌](https://www.youtube.com/watch?v=QMV45tHCYNI&feature=youtu.be&list=PL4BBB74C7D2A1049C) - Berkeley
 - [elementary OS Freya stable 소개](http://blog.naver.com/bagjunggyu/220328728464) - 블로그 포스팅, 설치 및 소개
 - [sublime-text2 설치 및 셋팅](http://superjang.com/archives/1773)
+- [Javascript crawler](http://codenamu.org/2014/11/13/16385/)
 
 
 ## ETC(temp)
