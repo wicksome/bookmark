@@ -46,6 +46,8 @@
 - [StockSnap.io](https://stocksnap.io/) - FREE Stock Photos
 - [Lock & Stock Photos](http://lockandstockphotos.com/) - FREE Stock Photos
 - [SNAPWIRE SNAPS](http://snapwiresnaps.tumblr.com/) - FREE Stock Photos
+- [Wallpaperscraft](https://wallpaperscraft.com/all/downloads/1080x1920/page8) - background, wallpaper
+- [Interfacelift](https://interfacelift.com/wallpaper/downloads/date/any/index10.html) - bacground, wallpaper
 - [imagebase](http://www.imagebase.net/) - 이미지
 - [FreePhotosBank](http://freephotosbank.com/) - 이미지
 - [Magdeleine](http://magdeleine.co/) - 저작자표시(CC BY 4.0) 적용
