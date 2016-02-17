@@ -112,7 +112,6 @@
 - [모니터 무결점 테스트](http://www.monitor.co.kr/)
 - [MakeYourOwnRingtone](http://makeownringtone.com/) - 웹 mp3파일 구간자르기
 - [ezgit](http://ezgif.com/) - gif 만들기
-- [ezgif](http://ezgif.com/) - gif 만들기
 - [imgflip](https://imgflip.com/gifgenerator) - video to GIF
 - [zamzar](http://www.zamzar.com/) - git 만들기
 - [Detect Mobile Browsers](http://detectmobilebrowsers.com/) - 모바일 브라우저 환경 확인
