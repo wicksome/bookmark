@@ -99,7 +99,6 @@
 - [geoiptool](http://www.geoiptool.com/en/) - ip 위치 추적
 - [utrace](http://en.utrace.de/) - ip 위치 추적
 - [whois](http://cqcounter.com/whois/) - ip 위치 추적
-- [Android Niceties](http://androidniceties.tumblr.com/) - Andorid App UI 디자인
 - [Troy](http://troy.labs.daum.net/) - 반응형 웹 개발시 다양한 디바이스 테스트
 - [tradukka](http://tradukka.com/unit/speed/meter-second?hl=ko) - 단위, 속도 각 측정 속도 변환
 - [PASTEBIN](http://pastebin.com/) - 소스공유
@@ -294,6 +293,8 @@
 ## Android
 
 - [Android Asynchronous Http Client](http://loopj.com/android-async-http/) - 콜백기반 Http 클라이언트 라이브러리
+- [Android Niceties](http://androidniceties.tumblr.com/) - Andorid App UI 디자인
+- [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)- Android Ui opensource
 
 
 ## PHP
